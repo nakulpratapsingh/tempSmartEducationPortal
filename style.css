@@ -1,0 +1,157 @@
+*{
+    padding :0;
+    margin: 0;
+}
+
+
+.nav-Bar
+{
+   height: 60px;
+   width: auto;
+   background-color:#2b3c4e;
+   display: flex;
+   color: white;
+   align-items: center;
+   justify-content: space-between;
+   font-size:25px;
+}
+
+.smartEdu
+{
+  margin-left: 10px;  
+  font-size: 35px; 
+}
+.lastName a
+{
+   margin-right: 20px;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.lastName a:hover {
+    color: rgb(127, 127, 86);  
+}
+.content
+{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items:center ;
+}
+
+.content #h1
+{
+   font-size: 85px;
+}
+.content #h2 
+{
+   font-size: 85px;
+   margin-left: 10px;
+}
+
+
+.content #learnAnything
+{
+     font-size: 35px;
+    margin-top: 17px;
+   
+}
+
+.content #explorequize
+{
+    margin-top: 17px;
+     height: 50px;
+    width: 200px;
+    background-color: #2b3c4e;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+   
+}
+
+
+/*   login page   */
+
+.container1
+{
+   padding : 0px;
+   margin: 0px;
+   height: 100vh;
+   width: 100vw;
+   background-color:red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.loginpage
+{
+  height:500px;
+  width: 500px;
+  background-color:#202c38;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#login
+{
+   font-size: xx-large;
+   margin-bottom: 20px;
+   color:skyblue;
+}
+
+::placeholder
+{
+   text-align: center;
+}
+
+input[type="text"]{
+   height: 28px;
+   width: 200px;
+   margin-bottom: 20px;
+   background-color: #202c38;
+   line-height: 28px;    
+   color: white;
+   border: 2px solid skyblue;
+   border-radius: 10px;
+}
+
+
+
+button.button1 {
+   margin-bottom: 20px;
+  background: none;       
+  border: none;           
+  color: white;           
+  font-size: 14px;        
+  cursor: pointer;        
+}
+
+button.button1:hover {
+  color: lightblue;       
+}
+
+button.button2
+{
+   margin-bottom: 20px;
+   height: 28px;
+   width: 200px;
+   background-color: skyblue;
+   border-radius: 10px;
+}
+
+button.button3 {
+   
+  background: none;       
+  border: none;           
+  color: skyblue;           
+  font-size: 14px;        
+  cursor: pointer;        
+}
