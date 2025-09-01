@@ -1,0 +1,365 @@
+[
+  {
+    "id": 1,
+    "question": "What is an Operating System?",
+    "options": ["A software that manages hardware", "A hardware device", "A compiler", "None of the above"],
+    "answer": "A software that manages hardware"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is not an OS?",
+    "options": ["Windows", "Linux", "Oracle", "MacOS"],
+    "answer": "Oracle"
+  },
+  {
+    "id": 3,
+    "question": "What is process scheduling in OS?",
+    "options": ["Allocating CPU to processes", "Allocating memory", "Managing files", "None"],
+    "answer": "Allocating CPU to processes"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is an example of a real-time OS?",
+    "options": ["Windows 10", "Linux", "RTLinux", "MS-DOS"],
+    "answer": "RTLinux"
+  },
+  {
+    "id": 5,
+    "question": "What is the main purpose of multiprogramming?",
+    "options": ["To increase CPU utilization", "To reduce memory", "To make OS simple", "None"],
+    "answer": "To increase CPU utilization"
+  },
+  {
+    "id": 6,
+    "question": "Which OS is developed by Apple?",
+    "options": ["Linux", "MacOS", "Windows", "Unix"],
+    "answer": "MacOS"
+  },
+  {
+    "id": 7,
+    "question": "What is the kernel of an OS?",
+    "options": ["Core part of OS", "Peripheral device", "Application", "None"],
+    "answer": "Core part of OS"
+  },
+  {
+    "id": 8,
+    "question": "What is a deadlock in OS?",
+    "options": ["Multiple processes waiting indefinitely", "Fast execution", "No scheduling", "None"],
+    "answer": "Multiple processes waiting indefinitely"
+  },
+  {
+    "id": 9,
+    "question": "Which scheduling algorithm gives equal time to processes?",
+    "options": ["FCFS", "Round Robin", "Priority", "SJF"],
+    "answer": "Round Robin"
+  },
+  {
+    "id": 10,
+    "question": "In which scheduling algorithm does the shortest job execute first?",
+    "options": ["FCFS", "SJF", "Round Robin", "Priority"],
+    "answer": "SJF"
+  },
+  {
+    "id": 11,
+    "question": "What is virtual memory?",
+    "options": ["Large memory", "Memory in CPU", "Memory management technique", "None"],
+    "answer": "Memory management technique"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is a type of OS?",
+    "options": ["Batch", "Time-sharing", "Distributed", "All of these"],
+    "answer": "All of these"
+  },
+  {
+    "id": 13,
+    "question": "Which component of OS interacts directly with hardware?",
+    "options": ["Shell", "Kernel", "User", "Compiler"],
+    "answer": "Kernel"
+  },
+  {
+    "id": 14,
+    "question": "What is context switching?",
+    "options": ["Switching from one process to another", "Switching hardware", "Switching OS", "None"],
+    "answer": "Switching from one process to another"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is an open-source OS?",
+    "options": ["Windows", "Linux", "MacOS", "MS-DOS"],
+    "answer": "Linux"
+  },
+  {
+    "id": 16,
+    "question": "What is a process?",
+    "options": ["Program in execution", "Software installed", "File in memory", "None"],
+    "answer": "Program in execution"
+  },
+  {
+    "id": 17,
+    "question": "What is a thread in OS?",
+    "options": ["Lightweight process", "Heavy process", "Compiler", "None"],
+    "answer": "Lightweight process"
+  },
+  {
+    "id": 18,
+    "question": "Which is the first program run when a computer starts?",
+    "options": ["BIOS", "OS", "Kernel", "Shell"],
+    "answer": "BIOS"
+  },
+  {
+    "id": 19,
+    "question": "What is thrashing in OS?",
+    "options": ["Excessive paging", "Fast processing", "Deadlock", "None"],
+    "answer": "Excessive paging"
+  },
+  {
+    "id": 20,
+    "question": "Which is not an example of a multitasking OS?",
+    "options": ["Windows", "Unix", "MS-DOS", "Linux"],
+    "answer": "MS-DOS"
+  },
+  {
+    "id": 21,
+    "question": "What is semaphore in OS?",
+    "options": ["Synchronization tool", "Compiler", "Debugger", "None"],
+    "answer": "Synchronization tool"
+  },
+  {
+    "id": 22,
+    "question": "What is paging in OS?",
+    "options": ["Memory management scheme", "CPU allocation", "File storage", "None"],
+    "answer": "Memory management scheme"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a disk scheduling algorithm?",
+    "options": ["FCFS", "SSTF", "SCAN", "All of these"],
+    "answer": "All of these"
+  },
+  {
+    "id": 24,
+    "question": "Which OS was developed first?",
+    "options": ["MS-DOS", "UNIX", "Windows 95", "Linux"],
+    "answer": "UNIX"
+  },
+  {
+    "id": 25,
+    "question": "Which command is used to list files in Linux?",
+    "options": ["ls", "cd", "mkdir", "pwd"],
+    "answer": "ls"
+  },
+  {
+    "id": 26,
+    "question": "What is spooling in OS?",
+    "options": ["Simultaneous Peripheral Operations Online", "Memory allocation", "Disk scheduling", "None"],
+    "answer": "Simultaneous Peripheral Operations Online"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is not a file system?",
+    "options": ["NTFS", "FAT32", "EXT4", "HTTP"],
+    "answer": "HTTP"
+  },
+  {
+    "id": 28,
+    "question": "Which of these is a distributed OS?",
+    "options": ["Windows XP", "Unix", "LOCUS", "MS-DOS"],
+    "answer": "LOCUS"
+  },
+  {
+    "id": 29,
+    "question": "What is shell in OS?",
+    "options": ["Command interpreter", "Kernel", "Process", "None"],
+    "answer": "Command interpreter"
+  },
+  {
+    "id": 30,
+    "question": "Which of these is not a type of scheduler?",
+    "options": ["Long-term", "Medium-term", "Short-term", "Fast-term"],
+    "answer": "Fast-term"
+  }
+]
+
+[
+  {
+    "id": 31,
+    "question": "Page table ka kaam kya hota hai?",
+    "options": ["Physical to Logical mapping", "Logical to Physical mapping", "Scheduling", "Deadlock detection"],
+    "answer": "Logical to Physical mapping"
+  },
+  {
+    "id": 32,
+    "question": "FIFO ka full form kya hai?",
+    "options": ["First In First Out", "First In Fast Out", "Fast In First Out", "First Inside First Outside"],
+    "answer": "First In First Out"
+  },
+  {
+    "id": 33,
+    "question": "Thrashing kab hota hai?",
+    "options": ["CPU Overload hone par", "Process starvation hone par", "Excessive paging hone par", "Deadlock hone par"],
+    "answer": "Excessive paging hone par"
+  },
+  {
+    "id": 34,
+    "question": "Semaphore kis problem ko solve karta hai?",
+    "options": ["Deadlock", "Race condition", "Fragmentation", "Thrashing"],
+    "answer": "Race condition"
+  },
+  {
+    "id": 35,
+    "question": "Memory compaction ka use kab hota hai?",
+    "options": ["External fragmentation hatane ke liye", "Internal fragmentation hatane ke liye", "Deadlock remove karne ke liye", "CPU utilization badhane ke liye"],
+    "answer": "External fragmentation hatane ke liye"
+  },
+  {
+    "id": 36,
+    "question": "Round Robin scheduling me quantum ka kya role hota hai?",
+    "options": ["Response time badhata hai", "Turnaround time kam karta hai", "Time slice decide karta hai", "Memory allocate karta hai"],
+    "answer": "Time slice decide karta hai"
+  },
+  {
+    "id": 37,
+    "question": "Critical section problem ka main objective kya hai?",
+    "options": ["Synchronization", "Deadlock removal", "Paging", "Compaction"],
+    "answer": "Synchronization"
+  },
+  {
+    "id": 38,
+    "question": "Deadlock avoid karne ke liye kaunsa algorithm use hota hai?",
+    "options": ["Banker’s Algorithm", "FIFO", "LRU", "FCFS"],
+    "answer": "Banker’s Algorithm"
+  },
+  {
+    "id": 39,
+    "question": "OS me Kernel mode ka kya kaam hai?",
+    "options": ["User programs run karna", "Hardware access control karna", "Memory allocate karna", "Deadlock detect karna"],
+    "answer": "Hardware access control karna"
+  },
+  {
+    "id": 40,
+    "question": "Virtual memory ka main purpose kya hai?",
+    "options": ["Speed increase karna", "Large program execute karna", "Deadlock avoid karna", "Cache manage karna"],
+    "answer": "Large program execute karna"
+  },
+  {
+    "id": 41,
+    "question": "File system me inode kis cheez ko store karta hai?",
+    "options": ["File content", "File metadata", "File name", "File extension"],
+    "answer": "File metadata"
+  },
+  {
+    "id": 42,
+    "question": "Disk scheduling me seek time kis cheez ka measure hai?",
+    "options": ["Head ko data tak pahunchne ka time", "CPU waiting time", "Process response time", "Memory access time"],
+    "answer": "Head ko data tak pahunchne ka time"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is not a process state?",
+    "options": ["Ready", "Blocked", "Waiting", "Halted"],
+    "answer": "Halted"
+  },
+  {
+    "id": 44,
+    "question": "Fragmentation me memory kaunsa issue hota hai?",
+    "options": ["Memory waste hona", "Deadlock", "CPU overloading", "Starvation"],
+    "answer": "Memory waste hona"
+  },
+  {
+    "id": 45,
+    "question": "Contiguous memory allocation ka drawback kya hai?",
+    "options": ["Fast access", "Internal fragmentation", "External fragmentation", "No fragmentation"],
+    "answer": "External fragmentation"
+  },
+  {
+    "id": 46,
+    "question": "LRU ka full form kya hai?",
+    "options": ["Last Recently Used", "Least Recently Used", "Least Required Usage", "Last Required Utility"],
+    "answer": "Least Recently Used"
+  },
+  {
+    "id": 47,
+    "question": "Preemptive scheduling ka example kaunsa hai?",
+    "options": ["FCFS", "SJF (non-preemptive)", "Round Robin", "Priority (non-preemptive)"],
+    "answer": "Round Robin"
+  },
+  {
+    "id": 48,
+    "question": "Non-preemptive scheduling ka matlab kya hai?",
+    "options": ["Process ko forcefully CPU se hata sakte hain", "Process ko jab tak khud khatam na ho tab tak CPU nahi chhodega", "Deadlock detect hota hai", "Starvation nahi hota"],
+    "answer": "Process ko jab tak khud khatam na ho tab tak CPU nahi chhodega"
+  },
+  {
+    "id": 49,
+    "question": "Turnaround time kis formula se nikalta hai?",
+    "options": ["Completion time - Arrival time", "Response time - Waiting time", "CPU time + I/O time", "Waiting time + Response time"],
+    "answer": "Completion time - Arrival time"
+  },
+  {
+    "id": 50,
+    "question": "Belady’s anomaly kis case me hota hai?",
+    "options": ["Page replacement me", "Deadlock me", "Scheduling me", "Fragmentation me"],
+    "answer": "Page replacement me"
+  },
+  {
+    "id": 51,
+    "question": "Spooling ka use kahan hota hai?",
+    "options": ["Disk Scheduling", "Printer Management", "Deadlock Avoidance", "Memory Compaction"],
+    "answer": "Printer Management"
+  },
+  {
+    "id": 52,
+    "question": "Multiprogramming ka main goal kya hai?",
+    "options": ["CPU utilization badhana", "Memory utilization kam karna", "Deadlock avoid karna", "Response time kam karna"],
+    "answer": "CPU utilization badhana"
+  },
+  {
+    "id": 53,
+    "question": "OS me Swapping ka kaam kya hai?",
+    "options": ["CPU ko swap karna", "Process ko memory aur disk ke beech move karna", "Deadlock ko swap karna", "Cache flush karna"],
+    "answer": "Process ko memory aur disk ke beech move karna"
+  },
+  {
+    "id": 54,
+    "question": "DMA ka full form kya hai?",
+    "options": ["Direct Memory Allocation", "Direct Memory Access", "Disk Memory Access", "Data Memory Allocation"],
+    "answer": "Direct Memory Access"
+  },
+  {
+    "id": 55,
+    "question": "Zombie process kya hota hai?",
+    "options": ["Process jo memory occupy karta hai", "Process jo complete ho gaya lekin process table me entry hai", "Process jo infinite loop me hai", "Process jo block ho gaya hai"],
+    "answer": "Process jo complete ho gaya lekin process table me entry hai"
+  },
+  {
+    "id": 56,
+    "question": "Orphan process ka kya matlab hai?",
+    "options": ["Process jo parent ke bina run kare", "Process jo child ke bina run kare", "Dead process", "Blocked process"],
+    "answer": "Process jo parent ke bina run kare"
+  },
+  {
+    "id": 57,
+    "question": "OS me pipe ka use kya hai?",
+    "options": ["Process synchronization", "Process communication", "Deadlock avoid karna", "CPU scheduling"],
+    "answer": "Process communication"
+  },
+  {
+    "id": 58,
+    "question": "Context switch kab hota hai?",
+    "options": ["Ek process se dusre process par switch karte waqt", "Deadlock hone par", "Memory full hone par", "Disk crash hone par"],
+    "answer": "Ek process se dusre process par switch karte waqt"
+  },
+  {
+    "id": 59,
+    "question": "Producer-Consumer problem ko solve karne ke liye kya use hota hai?",
+    "options": ["Deadlock", "Semaphore/Monitor", "Paging", "Fragmentation"],
+    "answer": "Semaphore/Monitor"
+  },
+  {
+    "id": 60,
+    "question": "Starvation ko avoid karne ka common technique kya hai?",
+    "options": ["Priority Aging", "Deadlock Detection", "FIFO", "Paging"],
+    "answer": "Priority Aging"
+  }
+]

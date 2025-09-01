@@ -1,0 +1,184 @@
+{
+  "pseudocode_questions": [
+    {
+      "id": 1,
+      "question": "Integer funn(Integer p, Integer q)\nif(p + q < 10)\nReturn 1 + funn(p + 1, q + 1)\nElse\nReturn 2\nEnd if",
+      "input": "p=7, q=2",
+      "output": "3"
+    },
+    {
+      "id": 2,
+      "question": "Integer compute(Integer n)\nif(n == 0)\nReturn 1\nElse\nReturn n * compute(n-1)\nEnd if",
+      "input": "n=3",
+      "output": "6"
+    },
+    {
+      "id": 3,
+      "question": "Integer mystery(Integer x)\nif(x <=1)\nReturn 1\nElse\nReturn x + mystery(x-1)\nEnd if",
+      "input": "x=4",
+      "output": "10"
+    },
+    {
+      "id": 4,
+      "question": "Integer sumDigits(Integer num)\nif(num == 0)\nReturn 0\nElse\nReturn (num % 10) + sumDigits(num / 10)\nEnd if",
+      "input": "num=123",
+      "output": "6"
+    },
+    {
+      "id": 5,
+      "question": "Integer power(Integer base, Integer exp)\nif(exp == 0)\nReturn 1\nElse\nReturn base * power(base, exp - 1)\nEnd if",
+      "input": "base=2, exp=3",
+      "output": "8"
+    },
+    {
+      "id": 6,
+      "question": "Integer fib(Integer n)\nif(n <= 1)\nReturn n\nElse\nReturn fib(n-1) + fib(n-2)\nEnd if",
+      "input": "n=5",
+      "output": "5"
+    },
+    {
+      "id": 7,
+      "question": "Integer countDown(Integer n)\nif(n == 0)\nReturn 0\nElse\nReturn 1 + countDown(n - 1)\nEnd if",
+      "input": "n=4",
+      "output": "4"
+    },
+    {
+      "id": 8,
+      "question": "Integer gcd(Integer a, Integer b)\nif(b == 0)\nReturn a\nElse\nReturn gcd(b, a % b)\nEnd if",
+      "input": "a=12, b=8",
+      "output": "4"
+    },
+    {
+      "id": 9,
+      "question": "Integer factorial(Integer n)\nif(n <= 1)\nReturn 1\nElse\nReturn n * factorial(n - 1)\nEnd if",
+      "input": "n=4",
+      "output": "24"
+    },
+    {
+      "id": 10,
+      "question": "Integer countEvenDigits(Integer num)\nif(num == 0)\nReturn 0\nElse if((num % 10) % 2 == 0)\nReturn 1 + countEvenDigits(num / 10)\nElse\nReturn countEvenDigits(num / 10)\nEnd if",
+      "input": "num=1234",
+      "output": "2"
+    },
+    {
+      "id": 11,
+      "question": "Integer sumArray(Integer arr[], Integer n)\nSet sum = 0\nFor i = 0 to n-1\nsum = sum + arr[i]\nEnd For\nReturn sum",
+      "input": "arr=[1,2,3,4], n=4",
+      "output": "10"
+    },
+    {
+      "id": 12,
+      "question": "Integer maxElement(Integer arr[], Integer n)\nSet max = arr[0]\nFor i = 1 to n-1\nIf arr[i] > max Then\nmax = arr[i]\nEnd If\nEnd For\nReturn max",
+      "input": "arr=[5,7,2,8], n=4",
+      "output": "8"
+    },
+    {
+      "id": 13,
+      "question": "Boolean isPrime(Integer num)\nIf num <= 1 Then\nReturn false\nEnd If\nFor i = 2 to sqrt(num)\nIf num % i == 0 Then\nReturn false\nEnd If\nEnd For\nReturn true",
+      "input": "num=7",
+      "output": "true"
+    },
+    {
+      "id": 14,
+      "question": "Integer fibonacci(Integer n)\nIf n == 0 Then\nReturn 0\nElse If n == 1 Then\nReturn 1\nElse\nReturn fibonacci(n-1) + fibonacci(n-2)\nEnd If",
+      "input": "n=6",
+      "output": "8"
+    },
+    {
+      "id": 15,
+      "question": "Integer reverseNumber(Integer num)\nSet rev = 0\nWhile num > 0\nrev = rev * 10 + num % 10\nnum = num / 10\nEnd While\nReturn rev",
+      "input": "num=123",
+      "output": "321"
+    },
+    {
+      "id": 16,
+      "question": "Integer gcdIterative(Integer a, Integer b)\nWhile b != 0\ntemp = b\nb = a % b\na = temp\nEnd While\nReturn a",
+      "input": "a=56, b=98",
+      "output": "14"
+    },
+    {
+      "id": 17,
+      "question": "Boolean isPalindrome(String str)\nSet i = 0, j = length(str) - 1\nWhile i < j\nIf str[i] != str[j] Then\nReturn false\nEnd If\ni = i + 1\nj = j - 1\nEnd While\nReturn true",
+      "input": "str='radar'",
+      "output": "true"
+    },
+    {
+      "id": 18,
+      "question": "Integer countVowels(String str)\nSet count = 0\nFor each char c in str\nIf c in ['a','e','i','o','u'] Then\ncount = count + 1\nEnd If\nEnd For\nReturn count",
+      "input": "str='hello'",
+      "output": "2"
+    },
+    {
+      "id": 19,
+      "question": "Integer countWords(String str)\nSet count = 1\nFor i = 0 to length(str) - 1\nIf str[i] == ' ' Then\ncount = count + 1\nEnd If\nEnd For\nReturn count",
+      "input": "str='Hello world this is AI'",
+      "output": "5"
+    },
+    {
+      "id": 20,
+      "question": "Boolean isAnagram(String s1, String s2)\nIf length(s1) != length(s2) Then\nReturn false\nEnd If\nSort s1 and s2\nReturn s1 == s2",
+      "input": "s1='listen', s2='silent'",
+      "output": "true"
+    },
+    {
+      "id": 21,
+      "question": "Integer findMin(Integer arr[], Integer n)\nSet min = arr[0]\nFor i = 1 to n-1\nIf arr[i] < min Then\nmin = arr[i]\nEnd If\nEnd For\nReturn min",
+      "input": "arr=[5,2,8,3], n=4",
+      "output": "2"
+    },
+    {
+      "id": 22,
+      "question": "Integer sumOfSquares(Integer n)\nSet sum = 0\nFor i = 1 to n\nsum = sum + i * i\nEnd For\nReturn sum",
+      "input": "n=3",
+      "output": "14"
+    },
+    {
+      "id": 23,
+      "question": "Integer factorialIterative(Integer n)\nSet fact = 1\nFor i = 1 to n\nfact = fact * i\nEnd For\nReturn fact",
+      "input": "n=5",
+      "output": "120"
+    },
+    {
+      "id": 24,
+      "question": "Reverse an array\nFor i = 0 to n/2\nSwap(arr[i], arr[n-1-i])\nEnd For",
+      "input": "arr=[1,2,3,4]",
+      "output": "[4,3,2,1]"
+    },
+    {
+      "id": 25,
+      "question": "Check if array is sorted ascending\nFor i = 0 to n-2\nIf arr[i] > arr[i+1] Then\nReturn false\nEnd If\nEnd For\nReturn true",
+      "input": "arr=[1,2,3,4]",
+      "output": "true"
+    },
+    {
+      "id": 26,
+      "question": "Integer binarySearch(Integer arr[], Integer n, Integer key)\nSet low = 0\nSet high = n-1\nWhile low <= high\nSet mid = (low + high)/2\nIf arr[mid] == key Then\nReturn mid\nElse If arr[mid] < key Then\nlow = mid + 1\nElse\nhigh = mid - 1\nEnd If\nEnd While\nReturn -1",
+      "input": "arr=[1,2,3,4], n=4, key=3",
+      "output": "2"
+    },
+    {
+      "id": 27,
+      "question": "Count the number of vowels and consonants in a string\nSet vowels = 0\nSet consonants = 0\nFor each char in string\nIf char is vowel Then vowels++ Else consonants++\nEnd For",
+      "input": "string='hello'",
+      "output": "Vowels=2, Consonants=3"
+    },
+    {
+      "id": 28,
+      "question": "Check if number is Armstrong\nSet sum = 0\nSet temp = number\nWhile temp > 0\nSet digit = temp % 10\nsum = sum + digit^3\nSet temp = temp / 10\nEnd While\nIf sum == number Then Return true Else false",
+      "input": "number=153",
+      "output": "true"
+    },
+    {
+      "id": 29,
+      "question": "Calculate Fibonacci(n) using iteration\nSet a = 0, b = 1\nFor i = 2 to n\nSet c = a + b\nSet a = b\nSet b = c\nEnd For\nReturn b",
+      "input": "n=7",
+      "output": "13"
+    },
+    {
+      "id": 30,
+      "question": "Check if year is leap year\nIf (year % 400 == 0) OR (year % 4 == 0 AND year % 100 != 0) Then Return true Else false",
+      "input": "year=2024",
+      "output": "true"
+    }
+  ]
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Uncle",
+      "Cannot be determined"
+    ],
+    "answer": "Brother",
+    "formula": "Family relation \u2192 Brother/Sister problems: Check gender and relation tree.",
+    "id": 1
+  },
+  {
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "18"
+    ],
+    "answer": "32",
+    "formula": "Series \u2192 Multiply by 2 each step.",
+    "id": 2
+  },
+  {
+    "question": "In a certain code, CAT = DBU. What is DOG = ?",
+    "options": [
+      "EPI",
+      "EPH",
+      "EOH",
+      "EOG"
+    ],
+    "answer": "EPH",
+    "formula": "Coding \u2192 Add +1 to each alphabet.",
+    "id": 3
+  },
+  {
+    "question": "Ravi is taller than Mohan, Mohan is taller than Sohan. Who is the shortest?",
+    "options": [
+      "Ravi",
+      "Mohan",
+      "Sohan",
+      "Cannot be determined"
+    ],
+    "answer": "Sohan",
+    "formula": "Ranking \u2192 Arrange in ascending order of height.",
+    "id": 4
+  },
+  {
+    "question": "Find the odd one: Apple, Mango, Banana, Carrot",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Carrot"
+    ],
+    "answer": "Carrot",
+    "formula": "Odd one out \u2192 Carrot is a vegetable, others are fruits.",
+    "id": 5
+  },
+  {
+    "question": "If ALL = 27, CAT = 24, then DOG = ?",
+    "options": [
+      "26",
+      "22",
+      "24",
+      "28"
+    ],
+    "answer": "26",
+    "formula": "Alphabet coding \u2192 A=1, B=2, etc. Sum the positions.",
+    "id": 6
+  },
+  {
+    "question": "Mirror image of 'E' will look like?",
+    "options": [
+      "3",
+      "\u0190",
+      "M",
+      "W"
+    ],
+    "answer": "\u0190",
+    "formula": "Mirror image concept \u2192 Reverse horizontally.",
+    "id": 7
+  },
+  {
+    "question": "Clock: If it is 3:15, what is the angle between hour and minute hand?",
+    "options": [
+      "0\u00b0",
+      "7.5\u00b0",
+      "15\u00b0",
+      "30\u00b0"
+    ],
+    "answer": "7.5\u00b0",
+    "formula": "Angle = |(30\u00d7H + M/2) \u2013 (6\u00d7M)|",
+    "id": 8
+  },
+  {
+    "question": "Boat: A boat goes 20 km downstream in 2 hours and upstream in 4 hours. Speed of stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "5 km/h",
+      "4 km/h"
+    ],
+    "answer": "2 km/h",
+    "formula": "Speed = (Downstream \u2013 Upstream)/2",
+    "id": 9
+  },
+  {
+    "question": "Age: Sum of father and son\u2019s age is 60. Father\u2019s age is 4 times son. Find son\u2019s age.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "formula": "Equation: F+S=60, F=4S \u2192 5S=60 \u2192 S=12",
+    "id": 10
+  },
+  {
+    "question": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Uncle",
+      "Cannot be determined"
+    ],
+    "answer": "Brother",
+    "formula": "Family relation \u2192 Brother/Sister problems: Check gender and relation tree.",
+    "id": 11
+  },
+  {
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "18"
+    ],
+    "answer": "32",
+    "formula": "Series \u2192 Multiply by 2 each step.",
+    "id": 12
+  },
+  {
+    "question": "In a certain code, CAT = DBU. What is DOG = ?",
+    "options": [
+      "EPI",
+      "EPH",
+      "EOH",
+      "EOG"
+    ],
+    "answer": "EPH",
+    "formula": "Coding \u2192 Add +1 to each alphabet.",
+    "id": 13
+  },
+  {
+    "question": "Ravi is taller than Mohan, Mohan is taller than Sohan. Who is the shortest?",
+    "options": [
+      "Ravi",
+      "Mohan",
+      "Sohan",
+      "Cannot be determined"
+    ],
+    "answer": "Sohan",
+    "formula": "Ranking \u2192 Arrange in ascending order of height.",
+    "id": 14
+  },
+  {
+    "question": "Find the odd one: Apple, Mango, Banana, Carrot",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Carrot"
+    ],
+    "answer": "Carrot",
+    "formula": "Odd one out \u2192 Carrot is a vegetable, others are fruits.",
+    "id": 15
+  },
+  {
+    "question": "If ALL = 27, CAT = 24, then DOG = ?",
+    "options": [
+      "26",
+      "22",
+      "24",
+      "28"
+    ],
+    "answer": "26",
+    "formula": "Alphabet coding \u2192 A=1, B=2, etc. Sum the positions.",
+    "id": 16
+  },
+  {
+    "question": "Mirror image of 'E' will look like?",
+    "options": [
+      "3",
+      "\u0190",
+      "M",
+      "W"
+    ],
+    "answer": "\u0190",
+    "formula": "Mirror image concept \u2192 Reverse horizontally.",
+    "id": 17
+  },
+  {
+    "question": "Clock: If it is 3:15, what is the angle between hour and minute hand?",
+    "options": [
+      "0\u00b0",
+      "7.5\u00b0",
+      "15\u00b0",
+      "30\u00b0"
+    ],
+    "answer": "7.5\u00b0",
+    "formula": "Angle = |(30\u00d7H + M/2) \u2013 (6\u00d7M)|",
+    "id": 18
+  },
+  {
+    "question": "Boat: A boat goes 20 km downstream in 2 hours and upstream in 4 hours. Speed of stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "5 km/h",
+      "4 km/h"
+    ],
+    "answer": "2 km/h",
+    "formula": "Speed = (Downstream \u2013 Upstream)/2",
+    "id": 19
+  },
+  {
+    "question": "Age: Sum of father and son\u2019s age is 60. Father\u2019s age is 4 times son. Find son\u2019s age.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "formula": "Equation: F+S=60, F=4S \u2192 5S=60 \u2192 S=12",
+    "id": 20
+  },
+  {
+    "question": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Uncle",
+      "Cannot be determined"
+    ],
+    "answer": "Brother",
+    "formula": "Family relation \u2192 Brother/Sister problems: Check gender and relation tree.",
+    "id": 21
+  },
+  {
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "18"
+    ],
+    "answer": "32",
+    "formula": "Series \u2192 Multiply by 2 each step.",
+    "id": 22
+  },
+  {
+    "question": "In a certain code, CAT = DBU. What is DOG = ?",
+    "options": [
+      "EPI",
+      "EPH",
+      "EOH",
+      "EOG"
+    ],
+    "answer": "EPH",
+    "formula": "Coding \u2192 Add +1 to each alphabet.",
+    "id": 23
+  },
+  {
+    "question": "Ravi is taller than Mohan, Mohan is taller than Sohan. Who is the shortest?",
+    "options": [
+      "Ravi",
+      "Mohan",
+      "Sohan",
+      "Cannot be determined"
+    ],
+    "answer": "Sohan",
+    "formula": "Ranking \u2192 Arrange in ascending order of height.",
+    "id": 24
+  },
+  {
+    "question": "Find the odd one: Apple, Mango, Banana, Carrot",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Carrot"
+    ],
+    "answer": "Carrot",
+    "formula": "Odd one out \u2192 Carrot is a vegetable, others are fruits.",
+    "id": 25
+  },
+  {
+    "question": "If ALL = 27, CAT = 24, then DOG = ?",
+    "options": [
+      "26",
+      "22",
+      "24",
+      "28"
+    ],
+    "answer": "26",
+    "formula": "Alphabet coding \u2192 A=1, B=2, etc. Sum the positions.",
+    "id": 26
+  },
+  {
+    "question": "Mirror image of 'E' will look like?",
+    "options": [
+      "3",
+      "\u0190",
+      "M",
+      "W"
+    ],
+    "answer": "\u0190",
+    "formula": "Mirror image concept \u2192 Reverse horizontally.",
+    "id": 27
+  },
+  {
+    "question": "Clock: If it is 3:15, what is the angle between hour and minute hand?",
+    "options": [
+      "0\u00b0",
+      "7.5\u00b0",
+      "15\u00b0",
+      "30\u00b0"
+    ],
+    "answer": "7.5\u00b0",
+    "formula": "Angle = |(30\u00d7H + M/2) \u2013 (6\u00d7M)|",
+    "id": 28
+  },
+  {
+    "question": "Boat: A boat goes 20 km downstream in 2 hours and upstream in 4 hours. Speed of stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "5 km/h",
+      "4 km/h"
+    ],
+    "answer": "2 km/h",
+    "formula": "Speed = (Downstream \u2013 Upstream)/2",
+    "id": 29
+  },
+  {
+    "question": "Age: Sum of father and son\u2019s age is 60. Father\u2019s age is 4 times son. Find son\u2019s age.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "formula": "Equation: F+S=60, F=4S \u2192 5S=60 \u2192 S=12",
+    "id": 30
+  },
+  {
+    "question": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Uncle",
+      "Cannot be determined"
+    ],
+    "answer": "Brother",
+    "formula": "Family relation \u2192 Brother/Sister problems: Check gender and relation tree.",
+    "id": 31
+  },
+  {
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "18"
+    ],
+    "answer": "32",
+    "formula": "Series \u2192 Multiply by 2 each step.",
+    "id": 32
+  },
+  {
+    "question": "In a certain code, CAT = DBU. What is DOG = ?",
+    "options": [
+      "EPI",
+      "EPH",
+      "EOH",
+      "EOG"
+    ],
+    "answer": "EPH",
+    "formula": "Coding \u2192 Add +1 to each alphabet.",
+    "id": 33
+  },
+  {
+    "question": "Ravi is taller than Mohan, Mohan is taller than Sohan. Who is the shortest?",
+    "options": [
+      "Ravi",
+      "Mohan",
+      "Sohan",
+      "Cannot be determined"
+    ],
+    "answer": "Sohan",
+    "formula": "Ranking \u2192 Arrange in ascending order of height.",
+    "id": 34
+  },
+  {
+    "question": "Find the odd one: Apple, Mango, Banana, Carrot",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Carrot"
+    ],
+    "answer": "Carrot",
+    "formula": "Odd one out \u2192 Carrot is a vegetable, others are fruits.",
+    "id": 35
+  },
+  {
+    "question": "If ALL = 27, CAT = 24, then DOG = ?",
+    "options": [
+      "26",
+      "22",
+      "24",
+      "28"
+    ],
+    "answer": "26",
+    "formula": "Alphabet coding \u2192 A=1, B=2, etc. Sum the positions.",
+    "id": 36
+  },
+  {
+    "question": "Mirror image of 'E' will look like?",
+    "options": [
+      "3",
+      "\u0190",
+      "M",
+      "W"
+    ],
+    "answer": "\u0190",
+    "formula": "Mirror image concept \u2192 Reverse horizontally.",
+    "id": 37
+  },
+  {
+    "question": "Clock: If it is 3:15, what is the angle between hour and minute hand?",
+    "options": [
+      "0\u00b0",
+      "7.5\u00b0",
+      "15\u00b0",
+      "30\u00b0"
+    ],
+    "answer": "7.5\u00b0",
+    "formula": "Angle = |(30\u00d7H + M/2) \u2013 (6\u00d7M)|",
+    "id": 38
+  },
+  {
+    "question": "Boat: A boat goes 20 km downstream in 2 hours and upstream in 4 hours. Speed of stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "5 km/h",
+      "4 km/h"
+    ],
+    "answer": "2 km/h",
+    "formula": "Speed = (Downstream \u2013 Upstream)/2",
+    "id": 39
+  },
+  {
+    "question": "Age: Sum of father and son\u2019s age is 60. Father\u2019s age is 4 times son. Find son\u2019s age.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "formula": "Equation: F+S=60, F=4S \u2192 5S=60 \u2192 S=12",
+    "id": 40
+  },
+  {
+    "question": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Uncle",
+      "Cannot be determined"
+    ],
+    "answer": "Brother",
+    "formula": "Family relation \u2192 Brother/Sister problems: Check gender and relation tree.",
+    "id": 41
+  },
+  {
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "18"
+    ],
+    "answer": "32",
+    "formula": "Series \u2192 Multiply by 2 each step.",
+    "id": 42
+  },
+  {
+    "question": "In a certain code, CAT = DBU. What is DOG = ?",
+    "options": [
+      "EPI",
+      "EPH",
+      "EOH",
+      "EOG"
+    ],
+    "answer": "EPH",
+    "formula": "Coding \u2192 Add +1 to each alphabet.",
+    "id": 43
+  },
+  {
+    "question": "Ravi is taller than Mohan, Mohan is taller than Sohan. Who is the shortest?",
+    "options": [
+      "Ravi",
+      "Mohan",
+      "Sohan",
+      "Cannot be determined"
+    ],
+    "answer": "Sohan",
+    "formula": "Ranking \u2192 Arrange in ascending order of height.",
+    "id": 44
+  },
+  {
+    "question": "Find the odd one: Apple, Mango, Banana, Carrot",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Carrot"
+    ],
+    "answer": "Carrot",
+    "formula": "Odd one out \u2192 Carrot is a vegetable, others are fruits.",
+    "id": 45
+  },
+  {
+    "question": "If ALL = 27, CAT = 24, then DOG = ?",
+    "options": [
+      "26",
+      "22",
+      "24",
+      "28"
+    ],
+    "answer": "26",
+    "formula": "Alphabet coding \u2192 A=1, B=2, etc. Sum the positions.",
+    "id": 46
+  },
+  {
+    "question": "Mirror image of 'E' will look like?",
+    "options": [
+      "3",
+      "\u0190",
+      "M",
+      "W"
+    ],
+    "answer": "\u0190",
+    "formula": "Mirror image concept \u2192 Reverse horizontally.",
+    "id": 47
+  },
+  {
+    "question": "Clock: If it is 3:15, what is the angle between hour and minute hand?",
+    "options": [
+      "0\u00b0",
+      "7.5\u00b0",
+      "15\u00b0",
+      "30\u00b0"
+    ],
+    "answer": "7.5\u00b0",
+    "formula": "Angle = |(30\u00d7H + M/2) \u2013 (6\u00d7M)|",
+    "id": 48
+  },
+  {
+    "question": "Boat: A boat goes 20 km downstream in 2 hours and upstream in 4 hours. Speed of stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "5 km/h",
+      "4 km/h"
+    ],
+    "answer": "2 km/h",
+    "formula": "Speed = (Downstream \u2013 Upstream)/2",
+    "id": 49
+  },
+  {
+    "question": "Age: Sum of father and son\u2019s age is 60. Father\u2019s age is 4 times son. Find son\u2019s age.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "formula": "Equation: F+S=60, F=4S \u2192 5S=60 \u2192 S=12",
+    "id": 50
+  },
+  {
+    "question": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Uncle",
+      "Cannot be determined"
+    ],
+    "answer": "Brother",
+    "formula": "Family relation \u2192 Brother/Sister problems: Check gender and relation tree.",
+    "id": 51
+  },
+  {
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "18"
+    ],
+    "answer": "32",
+    "formula": "Series \u2192 Multiply by 2 each step.",
+    "id": 52
+  },
+  {
+    "question": "In a certain code, CAT = DBU. What is DOG = ?",
+    "options": [
+      "EPI",
+      "EPH",
+      "EOH",
+      "EOG"
+    ],
+    "answer": "EPH",
+    "formula": "Coding \u2192 Add +1 to each alphabet.",
+    "id": 53
+  },
+  {
+    "question": "Ravi is taller than Mohan, Mohan is taller than Sohan. Who is the shortest?",
+    "options": [
+      "Ravi",
+      "Mohan",
+      "Sohan",
+      "Cannot be determined"
+    ],
+    "answer": "Sohan",
+    "formula": "Ranking \u2192 Arrange in ascending order of height.",
+    "id": 54
+  },
+  {
+    "question": "Find the odd one: Apple, Mango, Banana, Carrot",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Carrot"
+    ],
+    "answer": "Carrot",
+    "formula": "Odd one out \u2192 Carrot is a vegetable, others are fruits.",
+    "id": 55
+  },
+  {
+    "question": "If ALL = 27, CAT = 24, then DOG = ?",
+    "options": [
+      "26",
+      "22",
+      "24",
+      "28"
+    ],
+    "answer": "26",
+    "formula": "Alphabet coding \u2192 A=1, B=2, etc. Sum the positions.",
+    "id": 56
+  },
+  {
+    "question": "Mirror image of 'E' will look like?",
+    "options": [
+      "3",
+      "\u0190",
+      "M",
+      "W"
+    ],
+    "answer": "\u0190",
+    "formula": "Mirror image concept \u2192 Reverse horizontally.",
+    "id": 57
+  },
+  {
+    "question": "Clock: If it is 3:15, what is the angle between hour and minute hand?",
+    "options": [
+      "0\u00b0",
+      "7.5\u00b0",
+      "15\u00b0",
+      "30\u00b0"
+    ],
+    "answer": "7.5\u00b0",
+    "formula": "Angle = |(30\u00d7H + M/2) \u2013 (6\u00d7M)|",
+    "id": 58
+  },
+  {
+    "question": "Boat: A boat goes 20 km downstream in 2 hours and upstream in 4 hours. Speed of stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "5 km/h",
+      "4 km/h"
+    ],
+    "answer": "2 km/h",
+    "formula": "Speed = (Downstream \u2013 Upstream)/2",
+    "id": 59
+  },
+  {
+    "question": "Age: Sum of father and son\u2019s age is 60. Father\u2019s age is 4 times son. Find son\u2019s age.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "formula": "Equation: F+S=60, F=4S \u2192 5S=60 \u2192 S=12",
+    "id": 60
+  },
+  {
+    "question": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Uncle",
+      "Cannot be determined"
+    ],
+    "answer": "Brother",
+    "formula": "Family relation \u2192 Brother/Sister problems: Check gender and relation tree.",
+    "id": 61
+  },
+  {
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "18"
+    ],
+    "answer": "32",
+    "formula": "Series \u2192 Multiply by 2 each step.",
+    "id": 62
+  },
+  {
+    "question": "In a certain code, CAT = DBU. What is DOG = ?",
+    "options": [
+      "EPI",
+      "EPH",
+      "EOH",
+      "EOG"
+    ],
+    "answer": "EPH",
+    "formula": "Coding \u2192 Add +1 to each alphabet.",
+    "id": 63
+  },
+  {
+    "question": "Ravi is taller than Mohan, Mohan is taller than Sohan. Who is the shortest?",
+    "options": [
+      "Ravi",
+      "Mohan",
+      "Sohan",
+      "Cannot be determined"
+    ],
+    "answer": "Sohan",
+    "formula": "Ranking \u2192 Arrange in ascending order of height.",
+    "id": 64
+  },
+  {
+    "question": "Find the odd one: Apple, Mango, Banana, Carrot",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Carrot"
+    ],
+    "answer": "Carrot",
+    "formula": "Odd one out \u2192 Carrot is a vegetable, others are fruits.",
+    "id": 65
+  },
+  {
+    "question": "If ALL = 27, CAT = 24, then DOG = ?",
+    "options": [
+      "26",
+      "22",
+      "24",
+      "28"
+    ],
+    "answer": "26",
+    "formula": "Alphabet coding \u2192 A=1, B=2, etc. Sum the positions.",
+    "id": 66
+  },
+  {
+    "question": "Mirror image of 'E' will look like?",
+    "options": [
+      "3",
+      "\u0190",
+      "M",
+      "W"
+    ],
+    "answer": "\u0190",
+    "formula": "Mirror image concept \u2192 Reverse horizontally.",
+    "id": 67
+  },
+  {
+    "question": "Clock: If it is 3:15, what is the angle between hour and minute hand?",
+    "options": [
+      "0\u00b0",
+      "7.5\u00b0",
+      "15\u00b0",
+      "30\u00b0"
+    ],
+    "answer": "7.5\u00b0",
+    "formula": "Angle = |(30\u00d7H + M/2) \u2013 (6\u00d7M)|",
+    "id": 68
+  },
+  {
+    "question": "Boat: A boat goes 20 km downstream in 2 hours and upstream in 4 hours. Speed of stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "5 km/h",
+      "4 km/h"
+    ],
+    "answer": "2 km/h",
+    "formula": "Speed = (Downstream \u2013 Upstream)/2",
+    "id": 69
+  },
+  {
+    "question": "Age: Sum of father and son\u2019s age is 60. Father\u2019s age is 4 times son. Find son\u2019s age.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "formula": "Equation: F+S=60, F=4S \u2192 5S=60 \u2192 S=12",
+    "id": 70
+  },
+  {
+    "question": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Uncle",
+      "Cannot be determined"
+    ],
+    "answer": "Brother",
+    "formula": "Family relation \u2192 Brother/Sister problems: Check gender and relation tree.",
+    "id": 71
+  },
+  {
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "18"
+    ],
+    "answer": "32",
+    "formula": "Series \u2192 Multiply by 2 each step.",
+    "id": 72
+  },
+  {
+    "question": "In a certain code, CAT = DBU. What is DOG = ?",
+    "options": [
+      "EPI",
+      "EPH",
+      "EOH",
+      "EOG"
+    ],
+    "answer": "EPH",
+    "formula": "Coding \u2192 Add +1 to each alphabet.",
+    "id": 73
+  },
+  {
+    "question": "Ravi is taller than Mohan, Mohan is taller than Sohan. Who is the shortest?",
+    "options": [
+      "Ravi",
+      "Mohan",
+      "Sohan",
+      "Cannot be determined"
+    ],
+    "answer": "Sohan",
+    "formula": "Ranking \u2192 Arrange in ascending order of height.",
+    "id": 74
+  },
+  {
+    "question": "Find the odd one: Apple, Mango, Banana, Carrot",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Carrot"
+    ],
+    "answer": "Carrot",
+    "formula": "Odd one out \u2192 Carrot is a vegetable, others are fruits.",
+    "id": 75
+  },
+  {
+    "question": "If ALL = 27, CAT = 24, then DOG = ?",
+    "options": [
+      "26",
+      "22",
+      "24",
+      "28"
+    ],
+    "answer": "26",
+    "formula": "Alphabet coding \u2192 A=1, B=2, etc. Sum the positions.",
+    "id": 76
+  },
+  {
+    "question": "Mirror image of 'E' will look like?",
+    "options": [
+      "3",
+      "\u0190",
+      "M",
+      "W"
+    ],
+    "answer": "\u0190",
+    "formula": "Mirror image concept \u2192 Reverse horizontally.",
+    "id": 77
+  },
+  {
+    "question": "Clock: If it is 3:15, what is the angle between hour and minute hand?",
+    "options": [
+      "0\u00b0",
+      "7.5\u00b0",
+      "15\u00b0",
+      "30\u00b0"
+    ],
+    "answer": "7.5\u00b0",
+    "formula": "Angle = |(30\u00d7H + M/2) \u2013 (6\u00d7M)|",
+    "id": 78
+  },
+  {
+    "question": "Boat: A boat goes 20 km downstream in 2 hours and upstream in 4 hours. Speed of stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "5 km/h",
+      "4 km/h"
+    ],
+    "answer": "2 km/h",
+    "formula": "Speed = (Downstream \u2013 Upstream)/2",
+    "id": 79
+  },
+  {
+    "question": "Age: Sum of father and son\u2019s age is 60. Father\u2019s age is 4 times son. Find son\u2019s age.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "formula": "Equation: F+S=60, F=4S \u2192 5S=60 \u2192 S=12",
+    "id": 80
+  },
+  {
+    "question": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Uncle",
+      "Cannot be determined"
+    ],
+    "answer": "Brother",
+    "formula": "Family relation \u2192 Brother/Sister problems: Check gender and relation tree.",
+    "id": 81
+  },
+  {
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "18"
+    ],
+    "answer": "32",
+    "formula": "Series \u2192 Multiply by 2 each step.",
+    "id": 82
+  },
+  {
+    "question": "In a certain code, CAT = DBU. What is DOG = ?",
+    "options": [
+      "EPI",
+      "EPH",
+      "EOH",
+      "EOG"
+    ],
+    "answer": "EPH",
+    "formula": "Coding \u2192 Add +1 to each alphabet.",
+    "id": 83
+  },
+  {
+    "question": "Ravi is taller than Mohan, Mohan is taller than Sohan. Who is the shortest?",
+    "options": [
+      "Ravi",
+      "Mohan",
+      "Sohan",
+      "Cannot be determined"
+    ],
+    "answer": "Sohan",
+    "formula": "Ranking \u2192 Arrange in ascending order of height.",
+    "id": 84
+  },
+  {
+    "question": "Find the odd one: Apple, Mango, Banana, Carrot",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Carrot"
+    ],
+    "answer": "Carrot",
+    "formula": "Odd one out \u2192 Carrot is a vegetable, others are fruits.",
+    "id": 85
+  },
+  {
+    "question": "If ALL = 27, CAT = 24, then DOG = ?",
+    "options": [
+      "26",
+      "22",
+      "24",
+      "28"
+    ],
+    "answer": "26",
+    "formula": "Alphabet coding \u2192 A=1, B=2, etc. Sum the positions.",
+    "id": 86
+  },
+  {
+    "question": "Mirror image of 'E' will look like?",
+    "options": [
+      "3",
+      "\u0190",
+      "M",
+      "W"
+    ],
+    "answer": "\u0190",
+    "formula": "Mirror image concept \u2192 Reverse horizontally.",
+    "id": 87
+  },
+  {
+    "question": "Clock: If it is 3:15, what is the angle between hour and minute hand?",
+    "options": [
+      "0\u00b0",
+      "7.5\u00b0",
+      "15\u00b0",
+      "30\u00b0"
+    ],
+    "answer": "7.5\u00b0",
+    "formula": "Angle = |(30\u00d7H + M/2) \u2013 (6\u00d7M)|",
+    "id": 88
+  },
+  {
+    "question": "Boat: A boat goes 20 km downstream in 2 hours and upstream in 4 hours. Speed of stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "5 km/h",
+      "4 km/h"
+    ],
+    "answer": "2 km/h",
+    "formula": "Speed = (Downstream \u2013 Upstream)/2",
+    "id": 89
+  },
+  {
+    "question": "Age: Sum of father and son\u2019s age is 60. Father\u2019s age is 4 times son. Find son\u2019s age.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "formula": "Equation: F+S=60, F=4S \u2192 5S=60 \u2192 S=12",
+    "id": 90
+  },
+  {
+    "question": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Uncle",
+      "Cannot be determined"
+    ],
+    "answer": "Brother",
+    "formula": "Family relation \u2192 Brother/Sister problems: Check gender and relation tree.",
+    "id": 91
+  },
+  {
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "18"
+    ],
+    "answer": "32",
+    "formula": "Series \u2192 Multiply by 2 each step.",
+    "id": 92
+  },
+  {
+    "question": "In a certain code, CAT = DBU. What is DOG = ?",
+    "options": [
+      "EPI",
+      "EPH",
+      "EOH",
+      "EOG"
+    ],
+    "answer": "EPH",
+    "formula": "Coding \u2192 Add +1 to each alphabet.",
+    "id": 93
+  },
+  {
+    "question": "Ravi is taller than Mohan, Mohan is taller than Sohan. Who is the shortest?",
+    "options": [
+      "Ravi",
+      "Mohan",
+      "Sohan",
+      "Cannot be determined"
+    ],
+    "answer": "Sohan",
+    "formula": "Ranking \u2192 Arrange in ascending order of height.",
+    "id": 94
+  },
+  {
+    "question": "Find the odd one: Apple, Mango, Banana, Carrot",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Carrot"
+    ],
+    "answer": "Carrot",
+    "formula": "Odd one out \u2192 Carrot is a vegetable, others are fruits.",
+    "id": 95
+  },
+  {
+    "question": "If ALL = 27, CAT = 24, then DOG = ?",
+    "options": [
+      "26",
+      "22",
+      "24",
+      "28"
+    ],
+    "answer": "26",
+    "formula": "Alphabet coding \u2192 A=1, B=2, etc. Sum the positions.",
+    "id": 96
+  },
+  {
+    "question": "Mirror image of 'E' will look like?",
+    "options": [
+      "3",
+      "\u0190",
+      "M",
+      "W"
+    ],
+    "answer": "\u0190",
+    "formula": "Mirror image concept \u2192 Reverse horizontally.",
+    "id": 97
+  },
+  {
+    "question": "Clock: If it is 3:15, what is the angle between hour and minute hand?",
+    "options": [
+      "0\u00b0",
+      "7.5\u00b0",
+      "15\u00b0",
+      "30\u00b0"
+    ],
+    "answer": "7.5\u00b0",
+    "formula": "Angle = |(30\u00d7H + M/2) \u2013 (6\u00d7M)|",
+    "id": 98
+  },
+  {
+    "question": "Boat: A boat goes 20 km downstream in 2 hours and upstream in 4 hours. Speed of stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "5 km/h",
+      "4 km/h"
+    ],
+    "answer": "2 km/h",
+    "formula": "Speed = (Downstream \u2013 Upstream)/2",
+    "id": 99
+  },
+  {
+    "question": "Age: Sum of father and son\u2019s age is 60. Father\u2019s age is 4 times son. Find son\u2019s age.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "formula": "Equation: F+S=60, F=4S \u2192 5S=60 \u2192 S=12",
+    "id": 100
+  }
+]

@@ -1,0 +1,47 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container
+{
+    height:90vh ;
+    width: 31.6160vw;
+    background-color:rgb(41, 56, 41);
+    color: rgb(15, 15, 15);
+    border-radius: 10px;
+}
+
+h1
+{
+    display: flex;
+    justify-content: center;
+}
+#Sub
+{
+    height: 80vh;
+    width: 30vw;
+    background-color: rgb(1, 25, 1);
+    display: flex;
+    gap: 19px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow-y: auto; 
+    
+}
+
+.sub-class
+{
+    height: 40px;
+    width: 140px;
+    background-color: rgb(191, 228, 191);
+    
+    border-radius: 10px;
+}

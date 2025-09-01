@@ -1,0 +1,91 @@
+body
+{
+padding: 0px;
+margin: 0;
+
+height : 100vh;
+display : flex;
+justify-content: center;
+align-items: center;
+background: #f4f4f4;        /* halka background color (optional) */
+font-family: Arial, sans-serif;
+}
+
+#heading
+{
+  height: 8vh;
+  width: 30vw;
+  background-color: white;
+  border-radius: 18px;
+  border: 2px solid rgb(49, 141, 125);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 200px;
+  margin-top: 40px;
+  color: darkcyan;
+}
+
+.quize-container {
+    height: 600px;
+  background: #fff;
+  padding: 30px 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  text-align: left;
+  width: 850px;
+   background-clip: content-box;
+   color: rgb(90, 33, 33);
+
+   }
+
+
+#question
+{
+  margin-top: 35px;
+  margin-left: 60px;
+}
+
+#options
+{
+  margin-top: 20px;
+  margin-left: 100px;
+  text-align: left;
+  width: 400px;   /* jitni chahiye utni width */
+  font-size:x-large;
+  
+}
+
+#next-btn
+{
+  height: 8vh;
+  width: 14vw;
+  background-color: white;
+  border-radius:18px;
+  border: 8px solid darkcyan;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 327px;
+  margin-top: 135px;
+  color: black ;
+  font-weight: 100;
+  font-size: larger;
+}
+
+#exit
+{
+   height: 8vh;
+  width: 14vw;
+  background-color: white;
+  border-radius:18px;
+  border: 8px solid darkcyan;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 327px;
+  margin-top: 24px;
+  color: black ;
+  font-weight: 100;
+  font-size: larger;
+}

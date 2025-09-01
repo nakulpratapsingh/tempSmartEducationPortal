@@ -1,0 +1,334 @@
+{
+  "data_structure_mcq_questions": [
+    {
+      "id": 1,
+      "question": "निम्न में से कौन सा non-linear डेटा स्ट्रक्चर है?",
+      "options": [
+        "Array",
+        "Stack",
+        "Tree",
+        "Queue"
+      ],
+      "answer": "Tree"
+    },
+    {
+      "id": 2,
+      "question": "स्टैक का Data Structure कौन सा है?",
+      "options": [
+        "Linear",
+        "Non-linear",
+        "Hierarchical",
+        "None of the above"
+      ],
+      "answer": "Linear"
+    },
+    {
+      "id": 3,
+      "question": "लिंक्ड लिस्ट किस प्रकार का डेटा स्ट्रक्चर है?",
+      "options": [
+        "Non-linear",
+        "Linear",
+        "Hierarchical",
+        "None of the above"
+      ],
+      "answer": "Linear"
+    },
+    {
+      "id": 4,
+      "question": "Queue में element कहां add किया जाता है?",
+      "options": [
+        "Front",
+        "Rear",
+        "Middle",
+        "Anywhere"
+      ],
+      "answer": "Rear"
+    },
+    {
+      "id": 5,
+      "question": "Stack में element को जोड़ने वाले operation को क्या कहते हैं?",
+      "options": [
+        "Pop",
+        "Push",
+        "Insert",
+        "Add"
+      ],
+      "answer": "Push"
+    },
+    {
+      "id": 6,
+      "question": "Binary Search Tree में कम से कम कितने children हो सकते हैं किसी node के?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": 7,
+      "question": "Graph किस प्रकार का डेटा स्ट्रक्चर है?",
+      "options": [
+        "Linear",
+        "Non-linear",
+        "Hierarchical",
+        "None of the above"
+      ],
+      "answer": "Non-linear"
+    },
+    {
+      "id": 8,
+      "question": "Hashing का उपयोग किस लिए किया जाता है?",
+      "options": [
+        "Data Compression",
+        "Data Searching",
+        "Data Encryption",
+        "Data Sorting"
+      ],
+      "answer": "Data Searching"
+    },
+    {
+      "id": 9,
+      "question": "Array में elements को किस index से शुरू किया जाता है?",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "Random"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": 10,
+      "question": "कौन सा sorting algorithm Divide and Conquer technique का उपयोग करता है?",
+      "options": [
+        "Bubble Sort",
+        "Selection Sort",
+        "Quick Sort",
+        "Insertion Sort"
+      ],
+      "answer": "Quick Sort"
+    },
+    {
+      "id": 11,
+      "question": "Linked List के कौन से प्रकार में अंतिम node पहले node से जुड़ा होता है?",
+      "options": [
+        "Singly Linked List",
+        "Doubly Linked List",
+        "Circular Linked List",
+        "None of the above"
+      ],
+      "answer": "Circular Linked List"
+    },
+    {
+      "id": 12,
+      "question": "Stack में element हटाने की प्रक्रिया को क्या कहते हैं?",
+      "options": [
+        "Pop",
+        "Push",
+        "Delete",
+        "Remove"
+      ],
+      "answer": "Pop"
+    },
+    {
+      "id": 13,
+      "question": "Queue का क्रम किस तरह होता है?",
+      "options": [
+        "LIFO",
+        "FIFO",
+        "Random",
+        "None"
+      ],
+      "answer": "FIFO"
+    },
+    {
+      "id": 14,
+      "question": "कौन सा डेटा स्ट्रक्चर stack की तरह काम करता है?",
+      "options": [
+        "Queue",
+        "Array",
+        "Linked List",
+        "Deque"
+      ],
+      "answer": "Deque"
+    },
+    {
+      "id": 15,
+      "question": "Hash Table सबसे अच्छा किस प्रकार का डेटा स्ट्रक्चर है?",
+      "options": [
+        "Linear Search",
+        "Non-linear Search",
+        "Direct Access",
+        "Tree Search"
+      ],
+      "answer": "Direct Access"
+    },
+    {
+      "id": 16,
+      "question": "निम्न में से किस डेटा स्ट्रक्चर का उपयोग Fibonacci Heap में होता है?",
+      "options": [
+        "Graph",
+        "Heap",
+        "Tree",
+        "Array"
+      ],
+      "answer": "Heap"
+    },
+    {
+      "id": 17,
+      "question": "Binary Tree में कितने बच्चें हो सकते हैं किसी node के अधिकतम?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "Unlimited"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 18,
+      "question": "Stack Overflow किस स्थिति को दर्शाता है?",
+      "options": [
+        "Stack खाली होना",
+        "Stack भर जाना",
+        "Memory Leak",
+        "Stack में Error"
+      ],
+      "answer": "Stack भर जाना"
+    },
+    {
+      "id": 19,
+      "question": "पैरेंट और चाइल्ड node के बीच संबंध किस डेटा स्ट्रक्चर में होता है?",
+      "options": [
+        "Array",
+        "Tree",
+        "Graph",
+        "Hash Table"
+      ],
+      "answer": "Tree"
+    },
+    {
+      "id": 20,
+      "question": "कौन सा algorithm sorting के लिए सबसे तेज माना जाता है?",
+      "options": [
+        "Bubble Sort",
+        "Quick Sort",
+        "Selection Sort",
+        "Insertion Sort"
+      ],
+      "answer": "Quick Sort"
+    },
+    {
+      "id": 21,
+      "question": "कौन सा sorting algorithm सबसे सरल है?",
+      "options": [
+        "Bubble Sort",
+        "Quick Sort",
+        "Merge Sort",
+        "Heap Sort"
+      ],
+      "answer": "Bubble Sort"
+    },
+    {
+      "id": 22,
+      "question": "Stack के लिए उपयोग किया जाने वाला अनुक्रम कौन सा है?",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "FILO",
+        "None"
+      ],
+      "answer": "LIFO"
+    },
+    {
+      "id": 23,
+      "question": "Graph में एक node से दूसरे node तक जाने वाला मार्ग क्या कहलाता है?",
+      "options": [
+        "Edge",
+        "Path",
+        "Node",
+        "Vertex"
+      ],
+      "answer": "Path"
+    },
+    {
+      "id": 24,
+      "question": "डेटा संरचनाओं में ‘Queue’ का मतलब क्या है?",
+      "options": [
+        "List",
+        "FIFO कंटेनर",
+        "LIFO कंटेनर",
+        "Graph"
+      ],
+      "answer": "FIFO कंटेनर"
+    },
+    {
+      "id": 25,
+      "question": "Stack के ऊपर नया डेटा कैसे डाला जाता है?",
+      "options": [
+        "Push ऑपरेशन से",
+        "Pop ऑपरेशन से",
+        "Insert ऑपरेशन से",
+        "Add ऑपरेशन से"
+      ],
+      "answer": "Push ऑपरेशन से"
+    },
+    {
+      "id": 26,
+      "question": "Linked List में प्रत्येक item को क्या कहते हैं?",
+      "options": [
+        "Data",
+        "Node",
+        "Element",
+        "Pointer"
+      ],
+      "answer": "Node"
+    },
+    {
+      "id": 27,
+      "question": "कौन सी sorting technique सबसे efficient मानी जाती है जटिल डेटा संरचनाओं के लिए?",
+      "options": [
+        "Merge Sort",
+        "Bubble Sort",
+        "Selection Sort",
+        "Insertion Sort"
+      ],
+      "answer": "Merge Sort"
+    },
+    {
+      "id": 28,
+      "question": "Binary Tree की खोज का सबसे सही तरीका क्या है?",
+      "options": [
+        "Traversal",
+        "Sorting",
+        "Insertion",
+        "Deletion"
+      ],
+      "answer": "Traversal"
+    },
+    {
+      "id": 29,
+      "question": "डेटा संरचनाओं में ‘Heap’ किस प्रकार का ट्री होता है?",
+      "options": [
+        "Binary Tree",
+        "Complete Binary Tree",
+        "Balanced Tree",
+        "Full Tree"
+      ],
+      "answer": "Complete Binary Tree"
+    },
+    {
+      "id": 30,
+      "question": "स्टैक में सबसे पहले कौन सा तत्व निकाला जाता है?",
+      "options": [
+        "सबसे पिछला (Bottom)",
+        "सबसे पहला (First inserted)",
+        "सबसे ऊपर (Top)",
+        "किसी भी स्थान का"
+      ],
+      "answer": "सबसे ऊपर (Top)"
+    }
+  ]
+}

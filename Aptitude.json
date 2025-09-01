@@ -1,0 +1,602 @@
+[
+    {
+        "question": "What is the formula for the area of a triangle?",
+        "options": [
+            "(1/2) \u00d7 base \u00d7 height",
+            "length \u00d7 breadth",
+            "\u03c0r\u00b2",
+            "2 \u00d7 (l+b)"
+        ],
+        "answer": "(1/2) \u00d7 base \u00d7 height"
+    },
+    {
+        "question": "What is the formula for the circumference of a circle?",
+        "options": [
+            "\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0d\u00b2",
+            "r\u00b2"
+        ],
+        "answer": "2\u03c0r"
+    },
+    {
+        "question": "What is the quadratic formula?",
+        "options": [
+            "(-b \u00b1 \u221a(b\u00b2-4ac)) / 2a",
+            "a\u00b2 + b\u00b2",
+            "2a + b",
+            "a\u00b3 - b\u00b3"
+        ],
+        "answer": "(-b \u00b1 \u221a(b\u00b2-4ac)) / 2a"
+    },
+    {
+        "question": "Formula for Simple Interest?",
+        "options": [
+            "(P \u00d7 R \u00d7 T) / 100",
+            "P \u00d7 R \u00d7 T",
+            "A - P",
+            "(P \u00d7 T) / R"
+        ],
+        "answer": "(P \u00d7 R \u00d7 T) / 100"
+    },
+    {
+        "question": "Formula for Compound Interest?",
+        "options": [
+            "P(1 + R/100)^T - P",
+            "P \u00d7 R \u00d7 T",
+            "P \u00d7 T \u00d7 R / 100",
+            "A - P"
+        ],
+        "answer": "P(1 + R/100)^T - P"
+    },
+    {
+        "question": "Perimeter of rectangle?",
+        "options": [
+            "2(l+b)",
+            "l\u00d7b",
+            "4a",
+            "\u03c0r\u00b2"
+        ],
+        "answer": "2(l+b)"
+    },
+    {
+        "question": "Area of circle?",
+        "options": [
+            "\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0d",
+            "r\u00b2"
+        ],
+        "answer": "\u03c0r\u00b2"
+    },
+    {
+        "question": "Pythagoras theorem?",
+        "options": [
+            "a\u00b2+b\u00b2=c\u00b2",
+            "a\u00b2-b\u00b2=c\u00b2",
+            "2ab",
+            "abc"
+        ],
+        "answer": "a\u00b2+b\u00b2=c\u00b2"
+    },
+    {
+        "question": "Trigonometry identity sin\u00b2\u03b8+cos\u00b2\u03b8=?",
+        "options": [
+            "1",
+            "0",
+            "sin\u03b8",
+            "cos\u03b8"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Surface area of sphere?",
+        "options": [
+            "4\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0r\u00b2",
+            "3\u03c0r\u00b2"
+        ],
+        "answer": "4\u03c0r\u00b2"
+    },
+    {
+        "question": "Volume of sphere?",
+        "options": [
+            "(4/3)\u03c0r\u00b3",
+            "\u03c0r\u00b2h",
+            "lbh",
+            "2\u03c0r\u00b2"
+        ],
+        "answer": "(4/3)\u03c0r\u00b3"
+    },
+    {
+        "question": "Area of parallelogram?",
+        "options": [
+            "base \u00d7 height",
+            "l\u00d7b",
+            "\u03c0r\u00b2",
+            "\u00bd(b\u00d7h)"
+        ],
+        "answer": "base \u00d7 height"
+    },
+    {
+        "question": "Derivative of x\u00b2?",
+        "options": [
+            "2x",
+            "x",
+            "x\u00b2",
+            "1"
+        ],
+        "answer": "2x"
+    },
+    {
+        "question": "Integral of 1/x dx?",
+        "options": [
+            "ln|x|+C",
+            "x\u00b2/2",
+            "e^x",
+            "1"
+        ],
+        "answer": "ln|x|+C"
+    },
+    {
+        "question": "Speed formula?",
+        "options": [
+            "Distance/Time",
+            "Time\u00d7Distance",
+            "Work/Time",
+            "P/T"
+        ],
+        "answer": "Distance/Time"
+    },
+    {
+        "question": "Perimeter of rectangle?",
+        "options": [
+            "2(l+b)",
+            "l\u00d7b",
+            "4a",
+            "\u03c0r\u00b2"
+        ],
+        "answer": "2(l+b)"
+    },
+    {
+        "question": "Area of circle?",
+        "options": [
+            "\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0d",
+            "r\u00b2"
+        ],
+        "answer": "\u03c0r\u00b2"
+    },
+    {
+        "question": "Pythagoras theorem?",
+        "options": [
+            "a\u00b2+b\u00b2=c\u00b2",
+            "a\u00b2-b\u00b2=c\u00b2",
+            "2ab",
+            "abc"
+        ],
+        "answer": "a\u00b2+b\u00b2=c\u00b2"
+    },
+    {
+        "question": "Trigonometry identity sin\u00b2\u03b8+cos\u00b2\u03b8=?",
+        "options": [
+            "1",
+            "0",
+            "sin\u03b8",
+            "cos\u03b8"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Surface area of sphere?",
+        "options": [
+            "4\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0r\u00b2",
+            "3\u03c0r\u00b2"
+        ],
+        "answer": "4\u03c0r\u00b2"
+    },
+    {
+        "question": "Volume of sphere?",
+        "options": [
+            "(4/3)\u03c0r\u00b3",
+            "\u03c0r\u00b2h",
+            "lbh",
+            "2\u03c0r\u00b2"
+        ],
+        "answer": "(4/3)\u03c0r\u00b3"
+    },
+    {
+        "question": "Area of parallelogram?",
+        "options": [
+            "base \u00d7 height",
+            "l\u00d7b",
+            "\u03c0r\u00b2",
+            "\u00bd(b\u00d7h)"
+        ],
+        "answer": "base \u00d7 height"
+    },
+    {
+        "question": "Derivative of x\u00b2?",
+        "options": [
+            "2x",
+            "x",
+            "x\u00b2",
+            "1"
+        ],
+        "answer": "2x"
+    },
+    {
+        "question": "Integral of 1/x dx?",
+        "options": [
+            "ln|x|+C",
+            "x\u00b2/2",
+            "e^x",
+            "1"
+        ],
+        "answer": "ln|x|+C"
+    },
+    {
+        "question": "Speed formula?",
+        "options": [
+            "Distance/Time",
+            "Time\u00d7Distance",
+            "Work/Time",
+            "P/T"
+        ],
+        "answer": "Distance/Time"
+    },
+    {
+        "question": "Perimeter of rectangle?",
+        "options": [
+            "2(l+b)",
+            "l\u00d7b",
+            "4a",
+            "\u03c0r\u00b2"
+        ],
+        "answer": "2(l+b)"
+    },
+    {
+        "question": "Area of circle?",
+        "options": [
+            "\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0d",
+            "r\u00b2"
+        ],
+        "answer": "\u03c0r\u00b2"
+    },
+    {
+        "question": "Pythagoras theorem?",
+        "options": [
+            "a\u00b2+b\u00b2=c\u00b2",
+            "a\u00b2-b\u00b2=c\u00b2",
+            "2ab",
+            "abc"
+        ],
+        "answer": "a\u00b2+b\u00b2=c\u00b2"
+    },
+    {
+        "question": "Trigonometry identity sin\u00b2\u03b8+cos\u00b2\u03b8=?",
+        "options": [
+            "1",
+            "0",
+            "sin\u03b8",
+            "cos\u03b8"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Surface area of sphere?",
+        "options": [
+            "4\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0r\u00b2",
+            "3\u03c0r\u00b2"
+        ],
+        "answer": "4\u03c0r\u00b2"
+    },
+    {
+        "question": "Volume of sphere?",
+        "options": [
+            "(4/3)\u03c0r\u00b3",
+            "\u03c0r\u00b2h",
+            "lbh",
+            "2\u03c0r\u00b2"
+        ],
+        "answer": "(4/3)\u03c0r\u00b3"
+    },
+    {
+        "question": "Area of parallelogram?",
+        "options": [
+            "base \u00d7 height",
+            "l\u00d7b",
+            "\u03c0r\u00b2",
+            "\u00bd(b\u00d7h)"
+        ],
+        "answer": "base \u00d7 height"
+    },
+    {
+        "question": "Derivative of x\u00b2?",
+        "options": [
+            "2x",
+            "x",
+            "x\u00b2",
+            "1"
+        ],
+        "answer": "2x"
+    },
+    {
+        "question": "Integral of 1/x dx?",
+        "options": [
+            "ln|x|+C",
+            "x\u00b2/2",
+            "e^x",
+            "1"
+        ],
+        "answer": "ln|x|+C"
+    },
+    {
+        "question": "Speed formula?",
+        "options": [
+            "Distance/Time",
+            "Time\u00d7Distance",
+            "Work/Time",
+            "P/T"
+        ],
+        "answer": "Distance/Time"
+    },
+    {
+        "question": "Perimeter of rectangle?",
+        "options": [
+            "2(l+b)",
+            "l\u00d7b",
+            "4a",
+            "\u03c0r\u00b2"
+        ],
+        "answer": "2(l+b)"
+    },
+    {
+        "question": "Area of circle?",
+        "options": [
+            "\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0d",
+            "r\u00b2"
+        ],
+        "answer": "\u03c0r\u00b2"
+    },
+    {
+        "question": "Pythagoras theorem?",
+        "options": [
+            "a\u00b2+b\u00b2=c\u00b2",
+            "a\u00b2-b\u00b2=c\u00b2",
+            "2ab",
+            "abc"
+        ],
+        "answer": "a\u00b2+b\u00b2=c\u00b2"
+    },
+    {
+        "question": "Trigonometry identity sin\u00b2\u03b8+cos\u00b2\u03b8=?",
+        "options": [
+            "1",
+            "0",
+            "sin\u03b8",
+            "cos\u03b8"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Surface area of sphere?",
+        "options": [
+            "4\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0r\u00b2",
+            "3\u03c0r\u00b2"
+        ],
+        "answer": "4\u03c0r\u00b2"
+    },
+    {
+        "question": "Volume of sphere?",
+        "options": [
+            "(4/3)\u03c0r\u00b3",
+            "\u03c0r\u00b2h",
+            "lbh",
+            "2\u03c0r\u00b2"
+        ],
+        "answer": "(4/3)\u03c0r\u00b3"
+    },
+    {
+        "question": "Area of parallelogram?",
+        "options": [
+            "base \u00d7 height",
+            "l\u00d7b",
+            "\u03c0r\u00b2",
+            "\u00bd(b\u00d7h)"
+        ],
+        "answer": "base \u00d7 height"
+    },
+    {
+        "question": "Derivative of x\u00b2?",
+        "options": [
+            "2x",
+            "x",
+            "x\u00b2",
+            "1"
+        ],
+        "answer": "2x"
+    },
+    {
+        "question": "Integral of 1/x dx?",
+        "options": [
+            "ln|x|+C",
+            "x\u00b2/2",
+            "e^x",
+            "1"
+        ],
+        "answer": "ln|x|+C"
+    },
+    {
+        "question": "Speed formula?",
+        "options": [
+            "Distance/Time",
+            "Time\u00d7Distance",
+            "Work/Time",
+            "P/T"
+        ],
+        "answer": "Distance/Time"
+    },
+    {
+        "question": "Perimeter of rectangle?",
+        "options": [
+            "2(l+b)",
+            "l\u00d7b",
+            "4a",
+            "\u03c0r\u00b2"
+        ],
+        "answer": "2(l+b)"
+    },
+    {
+        "question": "Area of circle?",
+        "options": [
+            "\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0d",
+            "r\u00b2"
+        ],
+        "answer": "\u03c0r\u00b2"
+    },
+    {
+        "question": "Pythagoras theorem?",
+        "options": [
+            "a\u00b2+b\u00b2=c\u00b2",
+            "a\u00b2-b\u00b2=c\u00b2",
+            "2ab",
+            "abc"
+        ],
+        "answer": "a\u00b2+b\u00b2=c\u00b2"
+    },
+    {
+        "question": "Trigonometry identity sin\u00b2\u03b8+cos\u00b2\u03b8=?",
+        "options": [
+            "1",
+            "0",
+            "sin\u03b8",
+            "cos\u03b8"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Surface area of sphere?",
+        "options": [
+            "4\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0r\u00b2",
+            "3\u03c0r\u00b2"
+        ],
+        "answer": "4\u03c0r\u00b2"
+    },
+    {
+        "question": "Volume of sphere?",
+        "options": [
+            "(4/3)\u03c0r\u00b3",
+            "\u03c0r\u00b2h",
+            "lbh",
+            "2\u03c0r\u00b2"
+        ],
+        "answer": "(4/3)\u03c0r\u00b3"
+    },
+    {
+        "question": "Area of parallelogram?",
+        "options": [
+            "base \u00d7 height",
+            "l\u00d7b",
+            "\u03c0r\u00b2",
+            "\u00bd(b\u00d7h)"
+        ],
+        "answer": "base \u00d7 height"
+    },
+    {
+        "question": "Derivative of x\u00b2?",
+        "options": [
+            "2x",
+            "x",
+            "x\u00b2",
+            "1"
+        ],
+        "answer": "2x"
+    },
+    {
+        "question": "Integral of 1/x dx?",
+        "options": [
+            "ln|x|+C",
+            "x\u00b2/2",
+            "e^x",
+            "1"
+        ],
+        "answer": "ln|x|+C"
+    },
+    {
+        "question": "Speed formula?",
+        "options": [
+            "Distance/Time",
+            "Time\u00d7Distance",
+            "Work/Time",
+            "P/T"
+        ],
+        "answer": "Distance/Time"
+    },
+    {
+        "question": "Perimeter of rectangle?",
+        "options": [
+            "2(l+b)",
+            "l\u00d7b",
+            "4a",
+            "\u03c0r\u00b2"
+        ],
+        "answer": "2(l+b)"
+    },
+    {
+        "question": "Area of circle?",
+        "options": [
+            "\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0d",
+            "r\u00b2"
+        ],
+        "answer": "\u03c0r\u00b2"
+    },
+    {
+        "question": "Pythagoras theorem?",
+        "options": [
+            "a\u00b2+b\u00b2=c\u00b2",
+            "a\u00b2-b\u00b2=c\u00b2",
+            "2ab",
+            "abc"
+        ],
+        "answer": "a\u00b2+b\u00b2=c\u00b2"
+    },
+    {
+        "question": "Trigonometry identity sin\u00b2\u03b8+cos\u00b2\u03b8=?",
+        "options": [
+            "1",
+            "0",
+            "sin\u03b8",
+            "cos\u03b8"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Surface area of sphere?",
+        "options": [
+            "4\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0r\u00b2",
+            "3\u03c0r\u00b2"
+        ],
+        "answer": "4\u03c0r\u00b2"
+    }
+]
