@@ -2,18 +2,18 @@
   "java_mcq_questions": [
     {
       "id": 1,
-      "question": "Java mein local variable ka default value kya hota hai?",
+      "question": "What is the default value of a local variable in Java?",
       "options": [
         "null",
         "0",
-        "Data type par depend karta hai",
-        "Default value nahi hoti"
+        "Depends on data type",
+        "No default value"
       ],
-      "answer": "Default value nahi hoti"
+      "answer": "No default value"
     },
     {
       "id": 2,
-      "question": "Nimn mein se kaun Java ka keyword nahi hai?",
+      "question": "Which of the following is not a Java keyword?",
       "options": [
         "static",
         "Boolean",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "question": "Variable jo text store karta hai, uske liye kaun sa data type use hota hai?",
+      "question": "Which data type is used to store text in Java?",
       "options": [
         "String",
         "int",
@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "question": "Java mein string ka length kaise pata karte hain?",
+      "question": "How do you find the length of a string in Java?",
       "options": [
         "length()",
         "getSize()",
@@ -46,7 +46,7 @@
     },
     {
       "id": 5,
-      "question": "Nimn mein se kaun valid Java identifier nahi hai?",
+      "question": "Which of the following is not a valid Java identifier?",
       "options": [
         "myVar",
         "123abc",
@@ -57,7 +57,7 @@
     },
     {
       "id": 6,
-      "question": "Java mein class ke constructor ko call karne ka sahi tarika kya hai?",
+      "question": "What is the correct way to call the constructor of a parent class in Java?",
       "options": [
         "super()",
         "super(void)",
@@ -68,150 +68,150 @@
     },
     {
       "id": 7,
-      "question": "Java mein garbage collection ka kya kaam hai?",
+      "question": "What is the purpose of garbage collection in Java?",
       "options": [
-        "Memory allocate karna",
-        "Unused objects delete karna",
-        "Error handle karna",
-        "Program execute karna"
+        "Allocate memory",
+        "Delete unused objects",
+        "Handle errors",
+        "Execute program"
       ],
-      "answer": "Unused objects delete karna"
+      "answer": "Delete unused objects"
     },
     {
       "id": 8,
-      "question": "Java exception handling ke liye kaunsa keyword use hota hai?",
+      "question": "Which keyword is used for exception handling in Java?",
       "options": [
         "try",
         "catch",
         "finally",
-        "Sabhi"
+        "All of these"
       ],
-      "answer": "Sabhi"
+      "answer": "All of these"
     },
     {
       "id": 9,
-      "question": "Java mein 'static' keyword ka use kya hota hai?",
+      "question": "What is the use of the 'static' keyword in Java?",
       "options": [
-        "Instance variable banane ke liye",
-        "Class variable banane ke liye",
-        "Method override karne ke liye",
-        "Constructor banane ke liye"
+        "To create instance variables",
+        "To create class variables",
+        "To override methods",
+        "To create constructors"
       ],
-      "answer": "Class variable banane ke liye"
+      "answer": "To create class variables"
     },
     {
       "id": 10,
-      "question": "Java mein method overloading kya hota hai?",
+      "question": "What is method overloading in Java?",
       "options": [
         "Same method name, different parameters",
         "Same method name, same parameters",
         "Different method name, same parameters",
-        "Different class mein same method"
+        "Same method in different class"
       ],
       "answer": "Same method name, different parameters"
     },
     {
       "id": 11,
-      "question": "Java mein 'interface' ka kya role hota hai?",
+      "question": "What is the role of an interface in Java?",
       "options": [
-        "Multiple inheritance provide karna",
-        "Data store karna",
-        "Method implementation dena",
-        "Class banane ke liye"
+        "To provide multiple inheritance",
+        "To store data",
+        "To give method implementation",
+        "To create a class"
       ],
-      "answer": "Multiple inheritance provide karna"
+      "answer": "To provide multiple inheritance"
     },
     {
       "id": 12,
-      "question": "Java mein 'this' keyword ka use kya hota hai?",
+      "question": "What is the use of 'this' keyword in Java?",
       "options": [
-        "Current object ko refer karne ke liye",
-        "Parent class refer karne ke liye",
-        "Static method call karne ke liye",
-        "Memory allocate karne ke liye"
+        "To refer to the current object",
+        "To refer to the parent class",
+        "To call a static method",
+        "To allocate memory"
       ],
-      "answer": "Current object ko refer karne ke liye"
+      "answer": "To refer to the current object"
     },
     {
       "id": 13,
-      "question": "Java mein 'final' keyword ka kya matlab hai?",
+      "question": "What does the 'final' keyword mean in Java?",
       "options": [
-        "Variable ko constant banata hai",
-        "Variable ko static banata hai",
-        "Method ko override nahi kar sakte",
-        "Sabhi"
+        "Makes a variable constant",
+        "Makes a variable static",
+        "Prevents method overriding",
+        "All of the above"
       ],
-      "answer": "Sabhi"
+      "answer": "All of the above"
     },
     {
       "id": 14,
-      "question": "Java mein 'abstract class' kya hoti hai?",
+      "question": "What is an abstract class in Java?",
       "options": [
-        "Jisme kuch methods abstract hote hain",
-        "Jisme sabhi methods implemented hote hain",
-        "Jisme koi methods nahi hote",
-        "Interface jaisa hota hai"
+        "A class with some abstract methods",
+        "A class with all methods implemented",
+        "A class with no methods",
+        "A class similar to an interface"
       ],
-      "answer": "Jisme kuch methods abstract hote hain"
+      "answer": "A class with some abstract methods"
     },
     {
       "id": 15,
-      "question": "Java mein 'String' object immutable kyu hota hai?",
+      "question": "Why are String objects immutable in Java?",
       "options": [
-        "String class final hai",
-        "String class secure hai",
-        "String objects change nahi hote",
+        "Because String class is final",
+        "Because String class is secure",
+        "Because String objects cannot be changed",
         "All of the above"
       ],
       "answer": "All of the above"
     },
     {
       "id": 16,
-      "question": "Java mein 'super' keyword ka use kya hai?",
+      "question": "What is the use of 'super' keyword in Java?",
       "options": [
-        "Parent class refer karne ke liye",
-        "Current class refer karne ke liye",
-        "Static method call karne ke liye",
+        "To refer to parent class",
+        "To refer to current class",
+        "To call static methods",
         "None of the above"
       ],
-      "answer": "Parent class refer karne ke liye"
+      "answer": "To refer to parent class"
     },
     {
       "id": 17,
-      "question": "Java mein 'constructor' ka kya role hai?",
+      "question": "What is the role of a constructor in Java?",
       "options": [
-        "Object initialize karna",
-        "Method call karna",
-        "Value return karna",
-        "Variable declare karna"
+        "To initialize objects",
+        "To call methods",
+        "To return values",
+        "To declare variables"
       ],
-      "answer": "Object initialize karna"
+      "answer": "To initialize objects"
     },
     {
       "id": 18,
-      "question": "Java mein 'polymorphism' kya hai?",
+      "question": "What is polymorphism in Java?",
       "options": [
-        "Ek object kai forms le sakta hai",
-        "Ek method kai naam ho sakta hai",
-        "Ek class kai object ho sakta hai",
-        "Koi nahi"
+        "An object can take many forms",
+        "A method can have many names",
+        "A class can have many objects",
+        "None"
       ],
-      "answer": "Ek object kai forms le sakta hai"
+      "answer": "An object can take many forms"
     },
     {
       "id": 19,
-      "question": "Java mein 'inheritance' ka use kyun hota hai?",
+      "question": "Why is inheritance used in Java?",
       "options": [
-        "Code reuse ke liye",
-        "Memory allocation ke liye",
-        "Error handle karne ke liye",
-        "Data encryption ke liye"
+        "For code reusability",
+        "For memory allocation",
+        "For error handling",
+        "For data encryption"
       ],
-      "answer": "Code reuse ke liye"
+      "answer": "For code reusability"
     },
     {
       "id": 20,
-      "question": "Java mein 'ArrayList' kaun si class ka part hai?",
+      "question": "Which package does 'ArrayList' belong to in Java?",
       "options": [
         "java.util",
         "java.lang",
@@ -222,51 +222,51 @@
     },
     {
       "id": 21,
-      "question": "Java mein 'Exception' kya hota hai?",
+      "question": "What is an Exception in Java?",
       "options": [
-        "Program ka error condition",
-        "Normal function",
-        "Variable ka naam",
-        "Class ka naam"
+        "An error condition in a program",
+        "A normal function",
+        "A variable name",
+        "A class name"
       ],
-      "answer": "Program ka error condition"
+      "answer": "An error condition in a program"
     },
     {
       "id": 22,
-      "question": "Java mein 'static' block kis waqt execute hota hai?",
+      "question": "When is a static block executed in Java?",
       "options": [
-        "Object creation ke time",
-        "Class load hone par",
-        "Method call hone par",
-        "Program ke end me"
+        "At object creation",
+        "When class is loaded",
+        "When a method is called",
+        "At the end of program"
       ],
-      "answer": "Class load hone par"
+      "answer": "When class is loaded"
     },
     {
       "id": 23,
-      "question": "Java mein 'try-catch' block ka kya use hai?",
+      "question": "What is the use of try-catch block in Java?",
       "options": [
-        "Error handle karna",
-        "File read karna",
-        "Data write karna",
-        "Program execute karna"
+        "To handle errors",
+        "To read files",
+        "To write data",
+        "To execute program"
       ],
-      "answer": "Error handle karna"
+      "answer": "To handle errors"
     },
     {
       "id": 24,
-      "question": "Java mein 'interface' aur 'abstract class' me kya fark hai?",
+      "question": "What is the difference between an interface and an abstract class in Java?",
       "options": [
-        "Interface mein sab methods abstract hote hain",
-        "Abstract class mein kuch methods implemented hote hain",
-        "Interface multiple inheritance allow karta hai",
-        "Sabhi"
+        "In interface, all methods are abstract",
+        "In abstract class, some methods can be implemented",
+        "Interface allows multiple inheritance",
+        "All of the above"
       ],
-      "answer": "Sabhi"
+      "answer": "All of the above"
     },
     {
       "id": 25,
-      "question": "Java mein 'JVM' ka full form kya hai?",
+      "question": "What is the full form of JVM?",
       "options": [
         "Java Virtual Machine",
         "Java Variable Method",
@@ -277,7 +277,7 @@
     },
     {
       "id": 26,
-      "question": "Java mein 'JDK' ka use kya hai?",
+      "question": "What is the use of JDK in Java?",
       "options": [
         "Java Development Kit",
         "Java Debug Kit",
@@ -288,47 +288,47 @@
     },
     {
       "id": 27,
-      "question": "Java mein 'public' keyword kya define karta hai?",
+      "question": "What does the 'public' keyword define in Java?",
       "options": [
-        "Sab jagah access",
-        "Class ke andar access",
-        "Same package me access",
-        "Subclass ke andar access"
+        "Accessible everywhere",
+        "Accessible within class only",
+        "Accessible within same package",
+        "Accessible within subclass"
       ],
-      "answer": "Sab jagah access"
+      "answer": "Accessible everywhere"
     },
     {
       "id": 28,
-      "question": "Java mein 'while' loop ka use kya hai?",
+      "question": "What is the use of 'while' loop in Java?",
       "options": [
-        "Code repeat karne ke liye",
-        "Condition check karne ke liye",
-        "Variable declare karne ke liye",
-        "Object create karne ke liye"
+        "To repeat code",
+        "To check condition",
+        "To declare variable",
+        "To create object"
       ],
-      "answer": "Code repeat karne ke liye"
+      "answer": "To repeat code"
     },
     {
       "id": 29,
-      "question": "Java mein 'extends' keyword ka use kya hai?",
+      "question": "What is the use of 'extends' keyword in Java?",
       "options": [
-        "Inheritance ke liye",
-        "Object banane ke liye",
-        "Method call karne ke liye",
-        "Memory allocate karne ke liye"
+        "For inheritance",
+        "To create objects",
+        "To call methods",
+        "To allocate memory"
       ],
-      "answer": "Inheritance ke liye"
+      "answer": "For inheritance"
     },
     {
       "id": 30,
-      "question": "Java mein 'main' method ka kya role hai?",
+      "question": "What is the role of 'main' method in Java?",
       "options": [
-        "Program start karna",
-        "Object create karna",
-        "Memory allocate karna",
-        "Error handle karna"
+        "To start the program",
+        "To create objects",
+        "To allocate memory",
+        "To handle errors"
       ],
-      "answer": "Program start karna"
+      "answer": "To start the program"
     }
   ]
 }

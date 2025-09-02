@@ -2,7 +2,7 @@
   "data_structure_mcq_questions": [
     {
       "id": 1,
-      "question": "निम्न में से कौन सा non-linear डेटा स्ट्रक्चर है?",
+      "question": "Which of the following is a non-linear data structure?",
       "options": [
         "Array",
         "Stack",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "question": "स्टैक का Data Structure कौन सा है?",
+      "question": "What type of Data Structure is Stack?",
       "options": [
         "Linear",
         "Non-linear",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "question": "लिंक्ड लिस्ट किस प्रकार का डेटा स्ट्रक्चर है?",
+      "question": "What type of data structure is Linked List?",
       "options": [
         "Non-linear",
         "Linear",
@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "question": "Queue में element कहां add किया जाता है?",
+      "question": "Where is an element added in a Queue?",
       "options": [
         "Front",
         "Rear",
@@ -46,7 +46,7 @@
     },
     {
       "id": 5,
-      "question": "Stack में element को जोड़ने वाले operation को क्या कहते हैं?",
+      "question": "What is the operation of adding an element into the Stack called?",
       "options": [
         "Pop",
         "Push",
@@ -57,7 +57,7 @@
     },
     {
       "id": 6,
-      "question": "Binary Search Tree में कम से कम कितने children हो सकते हैं किसी node के?",
+      "question": "In a Binary Search Tree, what is the minimum number of children a node can have?",
       "options": [
         "0",
         "1",
@@ -68,7 +68,7 @@
     },
     {
       "id": 7,
-      "question": "Graph किस प्रकार का डेटा स्ट्रक्चर है?",
+      "question": "What type of data structure is Graph?",
       "options": [
         "Linear",
         "Non-linear",
@@ -79,7 +79,7 @@
     },
     {
       "id": 8,
-      "question": "Hashing का उपयोग किस लिए किया जाता है?",
+      "question": "What is Hashing used for?",
       "options": [
         "Data Compression",
         "Data Searching",
@@ -90,7 +90,7 @@
     },
     {
       "id": 9,
-      "question": "Array में elements को किस index से शुरू किया जाता है?",
+      "question": "In an Array, indexing starts from?",
       "options": [
         "1",
         "0",
@@ -101,7 +101,7 @@
     },
     {
       "id": 10,
-      "question": "कौन सा sorting algorithm Divide and Conquer technique का उपयोग करता है?",
+      "question": "Which sorting algorithm uses Divide and Conquer technique?",
       "options": [
         "Bubble Sort",
         "Selection Sort",
@@ -112,7 +112,7 @@
     },
     {
       "id": 11,
-      "question": "Linked List के कौन से प्रकार में अंतिम node पहले node से जुड़ा होता है?",
+      "question": "In which type of Linked List is the last node connected to the first node?",
       "options": [
         "Singly Linked List",
         "Doubly Linked List",
@@ -123,7 +123,7 @@
     },
     {
       "id": 12,
-      "question": "Stack में element हटाने की प्रक्रिया को क्या कहते हैं?",
+      "question": "What is the process of removing an element from the Stack called?",
       "options": [
         "Pop",
         "Push",
@@ -134,7 +134,7 @@
     },
     {
       "id": 13,
-      "question": "Queue का क्रम किस तरह होता है?",
+      "question": "What is the order followed in a Queue?",
       "options": [
         "LIFO",
         "FIFO",
@@ -145,7 +145,7 @@
     },
     {
       "id": 14,
-      "question": "कौन सा डेटा स्ट्रक्चर stack की तरह काम करता है?",
+      "question": "Which data structure works like a stack?",
       "options": [
         "Queue",
         "Array",
@@ -156,7 +156,7 @@
     },
     {
       "id": 15,
-      "question": "Hash Table सबसे अच्छा किस प्रकार का डेटा स्ट्रक्चर है?",
+      "question": "Hash Table is best for which type of data structure?",
       "options": [
         "Linear Search",
         "Non-linear Search",
@@ -167,7 +167,7 @@
     },
     {
       "id": 16,
-      "question": "निम्न में से किस डेटा स्ट्रक्चर का उपयोग Fibonacci Heap में होता है?",
+      "question": "Which data structure is used in Fibonacci Heap?",
       "options": [
         "Graph",
         "Heap",
@@ -178,7 +178,7 @@
     },
     {
       "id": 17,
-      "question": "Binary Tree में कितने बच्चें हो सकते हैं किसी node के अधिकतम?",
+      "question": "In a Binary Tree, what is the maximum number of children a node can have?",
       "options": [
         "1",
         "2",
@@ -189,18 +189,18 @@
     },
     {
       "id": 18,
-      "question": "Stack Overflow किस स्थिति को दर्शाता है?",
+      "question": "Stack Overflow represents which condition?",
       "options": [
-        "Stack खाली होना",
-        "Stack भर जाना",
+        "Stack being empty",
+        "Stack being full",
         "Memory Leak",
-        "Stack में Error"
+        "Error in Stack"
       ],
-      "answer": "Stack भर जाना"
+      "answer": "Stack being full"
     },
     {
       "id": 19,
-      "question": "पैरेंट और चाइल्ड node के बीच संबंध किस डेटा स्ट्रक्चर में होता है?",
+      "question": "The relationship between Parent and Child nodes exists in which data structure?",
       "options": [
         "Array",
         "Tree",
@@ -211,7 +211,7 @@
     },
     {
       "id": 20,
-      "question": "कौन सा algorithm sorting के लिए सबसे तेज माना जाता है?",
+      "question": "Which algorithm is considered the fastest for sorting?",
       "options": [
         "Bubble Sort",
         "Quick Sort",
@@ -222,7 +222,7 @@
     },
     {
       "id": 21,
-      "question": "कौन सा sorting algorithm सबसे सरल है?",
+      "question": "Which sorting algorithm is the simplest?",
       "options": [
         "Bubble Sort",
         "Quick Sort",
@@ -233,7 +233,7 @@
     },
     {
       "id": 22,
-      "question": "Stack के लिए उपयोग किया जाने वाला अनुक्रम कौन सा है?",
+      "question": "Which sequence is used for Stack?",
       "options": [
         "FIFO",
         "LIFO",
@@ -244,7 +244,7 @@
     },
     {
       "id": 23,
-      "question": "Graph में एक node से दूसरे node तक जाने वाला मार्ग क्या कहलाता है?",
+      "question": "What is the path from one node to another in a Graph called?",
       "options": [
         "Edge",
         "Path",
@@ -255,29 +255,29 @@
     },
     {
       "id": 24,
-      "question": "डेटा संरचनाओं में ‘Queue’ का मतलब क्या है?",
+      "question": "In Data Structures, what does ‘Queue’ mean?",
       "options": [
         "List",
-        "FIFO कंटेनर",
-        "LIFO कंटेनर",
+        "FIFO Container",
+        "LIFO Container",
         "Graph"
       ],
-      "answer": "FIFO कंटेनर"
+      "answer": "FIFO Container"
     },
     {
       "id": 25,
-      "question": "Stack के ऊपर नया डेटा कैसे डाला जाता है?",
+      "question": "How is new data inserted into a Stack?",
       "options": [
-        "Push ऑपरेशन से",
-        "Pop ऑपरेशन से",
-        "Insert ऑपरेशन से",
-        "Add ऑपरेशन से"
+        "By Push operation",
+        "By Pop operation",
+        "By Insert operation",
+        "By Add operation"
       ],
-      "answer": "Push ऑपरेशन से"
+      "answer": "By Push operation"
     },
     {
       "id": 26,
-      "question": "Linked List में प्रत्येक item को क्या कहते हैं?",
+      "question": "What is each item in a Linked List called?",
       "options": [
         "Data",
         "Node",
@@ -288,7 +288,7 @@
     },
     {
       "id": 27,
-      "question": "कौन सी sorting technique सबसे efficient मानी जाती है जटिल डेटा संरचनाओं के लिए?",
+      "question": "Which sorting technique is considered most efficient for complex data structures?",
       "options": [
         "Merge Sort",
         "Bubble Sort",
@@ -299,7 +299,7 @@
     },
     {
       "id": 28,
-      "question": "Binary Tree की खोज का सबसे सही तरीका क्या है?",
+      "question": "What is the best way to search in a Binary Tree?",
       "options": [
         "Traversal",
         "Sorting",
@@ -310,7 +310,7 @@
     },
     {
       "id": 29,
-      "question": "डेटा संरचनाओं में ‘Heap’ किस प्रकार का ट्री होता है?",
+      "question": "In Data Structures, Heap is what type of Tree?",
       "options": [
         "Binary Tree",
         "Complete Binary Tree",
@@ -321,14 +321,14 @@
     },
     {
       "id": 30,
-      "question": "स्टैक में सबसे पहले कौन सा तत्व निकाला जाता है?",
+      "question": "Which element is removed first from a Stack?",
       "options": [
-        "सबसे पिछला (Bottom)",
-        "सबसे पहला (First inserted)",
-        "सबसे ऊपर (Top)",
-        "किसी भी स्थान का"
+        "Bottom (Last)",
+        "First inserted",
+        "Top (Latest)",
+        "Any random element"
       ],
-      "answer": "सबसे ऊपर (Top)"
+      "answer": "Top (Latest)"
     }
   ]
 }

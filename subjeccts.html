@@ -10,19 +10,26 @@
     <div class="container">
         <h1 id="heading"> Choose Subject</h1>
     <ul  id="Sub">
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">Mathematics</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">Aptitude</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">Reasoning</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">English</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">Operating System</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">Network Security</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">DataBase</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">C Language</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">C++</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">Java</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">Data Structure</button> </li>
-        <li> <button class="sub-class" onclick="window.location.href='quize.html'">PsuedoCode</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Mathematics')">Mathematics</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Aptitude')">Aptitude</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Reasoning')">Reasoning</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('English')">English</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Operating System')">Operating System</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Network Security')">Network Security</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('C Language')">C Language</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('C++')">C++</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Java')">Java</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Data Structure')">Data Structure</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('PsuedoCode')">PsuedoCode</button> </li> 
     </ul>
     </div>
+
+    <script>
+    function goToQuiz(subject) 
+    {
+    window.location.href = "quize.html?subject=" + subject;
+    }
+    </script>
+
 </body>
 </html>
