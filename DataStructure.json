@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following is a non-linear data structure?",
+    "options": ["Array", "Stack", "Tree", "Queue"],
+    "answer": "Tree"
+  },
+  {
+    "question": "What type of Data Structure is Stack?",
+    "options": ["Linear", "Non-linear", "Hierarchical", "None of the above"],
+    "answer": "Linear"
+  },
+  {
+    "question": "What type of data structure is Linked List?",
+    "options": ["Non-linear", "Linear", "Hierarchical", "None of the above"],
+    "answer": "Linear"
+  },
+  {
+    "question": "Where is an element added in a Queue?",
+    "options": ["Front", "Rear", "Middle", "Anywhere"],
+    "answer": "Rear"
+  },
+  {
+    "question": "What is the operation of adding an element into the Stack called?",
+    "options": ["Pop", "Push", "Insert", "Add"],
+    "answer": "Push"
+  },
+  {
+    "question": "In a Binary Search Tree, what is the minimum number of children a node can have?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "0"
+  },
+  {
+    "question": "What type of data structure is Graph?",
+    "options": ["Linear", "Non-linear", "Hierarchical", "None of the above"],
+    "answer": "Non-linear"
+  },
+  {
+    "question": "What is Hashing used for?",
+    "options": ["Data Compression", "Data Searching", "Data Encryption", "Data Sorting"],
+    "answer": "Data Searching"
+  },
+  {
+    "question": "In an Array, indexing starts from?",
+    "options": ["1", "0", "-1", "Random"],
+    "answer": "0"
+  },
+  {
+    "question": "Which sorting algorithm uses Divide and Conquer technique?",
+    "options": ["Bubble Sort", "Selection Sort", "Quick Sort", "Insertion Sort"],
+    "answer": "Quick Sort"
+  },
+  {
+    "question": "In which type of Linked List is the last node connected to the first node?",
+    "options": ["Singly Linked List", "Doubly Linked List", "Circular Linked List", "None of the above"],
+    "answer": "Circular Linked List"
+  },
+  {
+    "question": "What is the process of removing an element from the Stack called?",
+    "options": ["Pop", "Push", "Delete", "Remove"],
+    "answer": "Pop"
+  },
+  {
+    "question": "What is the order followed in a Queue?",
+    "options": ["LIFO", "FIFO", "Random", "None"],
+    "answer": "FIFO"
+  },
+  {
+    "question": "Which data structure works like a stack?",
+    "options": ["Queue", "Array", "Linked List", "Deque"],
+    "answer": "Deque"
+  },
+  {
+    "question": "Hash Table is best for which type of data structure?",
+    "options": ["Linear Search", "Non-linear Search", "Direct Access", "Tree Search"],
+    "answer": "Direct Access"
+  },
+  {
+    "question": "Which data structure is used in Fibonacci Heap?",
+    "options": ["Graph", "Heap", "Tree", "Array"],
+    "answer": "Heap"
+  },
+  {
+    "question": "In a Binary Tree, what is the maximum number of children a node can have?",
+    "options": ["1", "2", "3", "Unlimited"],
+    "answer": "2"
+  },
+  {
+    "question": "Stack Overflow represents which condition?",
+    "options": ["Stack being empty", "Stack being full", "Memory Leak", "Error in Stack"],
+    "answer": "Stack being full"
+  },
+  {
+    "question": "The relationship between Parent and Child nodes exists in which data structure?",
+    "options": ["Array", "Tree", "Graph", "Hash Table"],
+    "answer": "Tree"
+  },
+  {
+    "question": "Which algorithm is considered the fastest for sorting?",
+    "options": ["Bubble Sort", "Quick Sort", "Selection Sort", "Insertion Sort"],
+    "answer": "Quick Sort"
+  },
+  {
+    "question": "Which sorting algorithm is the simplest?",
+    "options": ["Bubble Sort", "Quick Sort", "Merge Sort", "Heap Sort"],
+    "answer": "Bubble Sort"
+  },
+  {
+    "question": "Which sequence is used for Stack?",
+    "options": ["FIFO", "LIFO", "FILO", "None"],
+    "answer": "LIFO"
+  },
+  {
+    "question": "What is the path from one node to another in a Graph called?",
+    "options": ["Edge", "Path", "Node", "Vertex"],
+    "answer": "Path"
+  },
+  {
+    "question": "In Data Structures, what does ‘Queue’ mean?",
+    "options": ["List", "FIFO Container", "LIFO Container", "Graph"],
+    "answer": "FIFO Container"
+  },
+  {
+    "question": "How is new data inserted into a Stack?",
+    "options": ["By Push operation", "By Pop operation", "By Insert operation", "By Add operation"],
+    "answer": "By Push operation"
+  },
+  {
+    "question": "What is each item in a Linked List called?",
+    "options": ["Data", "Node", "Element", "Pointer"],
+    "answer": "Node"
+  },
+  {
+    "question": "Which sorting technique is considered most efficient for complex data structures?",
+    "options": ["Merge Sort", "Bubble Sort", "Selection Sort", "Insertion Sort"],
+    "answer": "Merge Sort"
+  },
+  {
+    "question": "What is the best way to search in a Binary Tree?",
+    "options": ["Traversal", "Sorting", "Insertion", "Deletion"],
+    "answer": "Traversal"
+  },
+  {
+    "question": "In Data Structures, Heap is what type of Tree?",
+    "options": ["Binary Tree", "Complete Binary Tree", "Balanced Tree", "Full Tree"],
+    "answer": "Complete Binary Tree"
+  },
+  {
+    "question": "Which element is removed first from a Stack?",
+    "options": ["Bottom (Last)", "First inserted", "Top (Latest)", "Any random element"],
+    "answer": "Top (Latest)"
+  }
+]

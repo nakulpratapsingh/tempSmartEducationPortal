@@ -1,0 +1,117 @@
+[
+  {
+    "question": "What does the term 'firewall' in network security refer to?",
+    "options": ["A device to filter network traffic", "A program to speed up network", "A method to create networks", "A type of malware"],
+    "answer": "A device to filter network traffic"
+  },
+  {
+    "question": "What is the main purpose of encryption in network security?",
+    "options": ["Data storage", "Data compression", "Data protection and confidentiality", "Data transmission"],
+    "answer": "Data protection and confidentiality"
+  },
+  {
+    "question": "Which of the following is a type of attack involving overwhelming traffic?",
+    "options": ["Phishing", "SQL Injection", "Denial-of-Service (DoS)", "Man-in-the-Middle (MITM)"],
+    "answer": "Denial-of-Service (DoS)"
+  },
+  {
+    "question": "What does VPN stand for?",
+    "options": ["Virtual Public Network", "Virtual Private Network", "Variable Packet Network", "Verified Protocol Network"],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "question": "What is the purpose of Intrusion Detection Systems (IDS)?",
+    "options": ["Encrypt data", "Detect unauthorized access", "Repair hardware", "Monitor user behavior"],
+    "answer": "Detect unauthorized access"
+  },
+  {
+    "question": "Which of the following is a common authentication method in network security?",
+    "options": ["CAPTCHA", "Biometric scanning", "Open network access", "Password sharing"],
+    "answer": "Biometric scanning"
+  },
+  {
+    "question": "What is a Demilitarized Zone (DMZ) in network security?",
+    "options": ["A secure place to store data", "A buffer zone between internal and external networks", "An encryption technique", "A malware protection software"],
+    "answer": "A buffer zone between internal and external networks"
+  },
+  {
+    "question": "What is the function of a honeypot in network security?",
+    "options": ["To store sensitive data", "To attract and analyze attackers", "To prevent malware", "To block phishing"],
+    "answer": "To attract and analyze attackers"
+  },
+  {
+    "question": "Which type of firewall filters traffic based on application data?",
+    "options": ["Packet-filtering firewall", "Stateful firewall", "Application-layer firewall", "Network-layer firewall"],
+    "answer": "Application-layer firewall"
+  },
+  {
+    "question": "What does a 'man-in-the-middle' attack involve?",
+    "options": ["Blocking network traffic", "Eavesdropping on communication", "Sending spam emails", "Encrypting user data"],
+    "answer": "Eavesdropping on communication"
+  },
+  {
+    "question": "Which network security protocol secures communications over the Internet?",
+    "options": ["FTP", "HTTP", "SSL/TLS", "SMTP"],
+    "answer": "SSL/TLS"
+  },
+  {
+    "question": "What is two-factor authentication (2FA)?",
+    "options": ["Using the same password twice", "Using two steps to verify identity", "Encrypting all data", "Connecting two networks"],
+    "answer": "Using two steps to verify identity"
+  },
+  {
+    "question": "What is 'zero trust' in network security?",
+    "options": ["Assuming network is always secure", "Trusting all connected devices", "Verifying every access request", "Avoiding encryption"],
+    "answer": "Verifying every access request"
+  },
+  {
+    "question": "What is a botnet?",
+    "options": ["A collection of software updates", "A network of infected devices controlled by attackers", "Encryption software", "A type of hardware firewall"],
+    "answer": "A network of infected devices controlled by attackers"
+  },
+  {
+    "question": "What is the primary function of a router in network security?",
+    "options": ["To protect network from unauthorized access", "To forward data packets between networks", "To encrypt data", "To monitor user behavior"],
+    "answer": "To forward data packets between networks"
+  },
+  {
+    "question": "What is network segmentation?",
+    "options": ["Combining all network resources", "Dividing network into smaller secure sections", "Increasing data storage", "Improving encryption"],
+    "answer": "Dividing network into smaller secure sections"
+  },
+  {
+    "question": "Which protocol allows a remote user to securely access a network?",
+    "options": ["FTP", "HTTP", "SSH", "ICMP"],
+    "answer": "SSH"
+  },
+  {
+    "question": "What is a 'perimeter firewall'?",
+    "options": ["Firewall inside LAN", "Firewall on individual device", "Firewall at network edge to protect from external threats", "Firewall monitoring internal user activity"],
+    "answer": "Firewall at network edge to protect from external threats"
+  },
+  {
+    "question": "What kind of attack exploits software vulnerabilities to gain unauthorized access?",
+    "options": ["Malware injection", "Buffer overflow", "Social engineering", "Packet sniffing"],
+    "answer": "Buffer overflow"
+  },
+  {
+    "question": "Which is not a network security threat?",
+    "options": ["Malware", "Social engineering", "Firewall configuration", "Denial-of-Service attacks"],
+    "answer": "Firewall configuration"
+  },
+  {
+    "question": "What is port scanning used for?",
+    "options": ["Identifying active services", "Blocking access", "Optimizing performance", "Encrypting data"],
+    "answer": "Identifying active services"
+  },
+  {
+    "question": "What does intrusion prevention system (IPS) do?",
+    "options": ["Identifies threats and blocks them", "Analyzes network traffic only", "Stores network logs", "Monitors user activity"],
+    "answer": "Identifies threats and blocks them"
+  },
+  {
+    "question": "What is phishing?",
+    "options": ["Sending fraudulent emails to steal information", "A type of firewall", "Encrypting data", "A software update"],
+    "answer": "Sending fraudulent emails to steal information"
+  }
+]

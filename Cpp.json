@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following is the correct way to declare a constant in C++?",
+    "options": ["const int x = 10;", "int const x = 10;", "#define x 10", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which operator is overloaded by default in C++?",
+    "options": ["+", "=", "()", "&"],
+    "answer": "="
+  },
+  {
+    "question": "Which keyword is used to inherit a class in C++?",
+    "options": ["extends", "inherits", ":", "implements"],
+    "answer": ":"
+  },
+  {
+    "question": "What is the size of a pointer on a 64-bit machine?",
+    "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on compiler"],
+    "answer": "8 bytes"
+  },
+  {
+    "question": "Which concept allows the same function name to be used with different parameter lists?",
+    "options": ["Encapsulation", "Polymorphism", "Inheritance", "Abstraction"],
+    "answer": "Polymorphism"
+  },
+  {
+    "question": "Which feature of OOP indicates code reusability?",
+    "options": ["Inheritance", "Polymorphism", "Abstraction", "Encapsulation"],
+    "answer": "Inheritance"
+  },
+  {
+    "question": "Which of the following is NOT a type of constructor in C++?",
+    "options": ["Default", "Parameterized", "Copy", "Virtual"],
+    "answer": "Virtual"
+  },
+  {
+    "question": "Which operator is used to access a class member using a pointer object?",
+    "options": [".", "->", "::", "*"],
+    "answer": "->"
+  },
+  {
+    "question": "Which of the following cannot be declared as static?",
+    "options": ["Local variable", "Global variable", "Class member function", "Constructor"],
+    "answer": "Constructor"
+  },
+  {
+    "question": "Which function is called automatically when an object goes out of scope?",
+    "options": ["Constructor", "Destructor", "Inline function", "Virtual function"],
+    "answer": "Destructor"
+  },
+  {
+    "question": "Which of the following is used to define a template in C++?",
+    "options": ["template<>", "template()", "template class", "template<typename T>"],
+    "answer": "template<typename T>"
+  },
+  {
+    "question": "Which header file is required for 'cout' and 'cin'?",
+    "options": ["stdio.h", "iostream", "stdlib.h", "conio.h"],
+    "answer": "iostream"
+  },
+  {
+    "question": "Which keyword prevents a variable from being modified?",
+    "options": ["volatile", "mutable", "const", "static"],
+    "answer": "const"
+  },
+  {
+    "question": "Which of the following is used for dynamic memory allocation in C++?",
+    "options": ["malloc", "calloc", "new", "alloc"],
+    "answer": "new"
+  },
+  {
+    "question": "Which of the following is NOT an access specifier in C++?",
+    "options": ["public", "protected", "private", "external"],
+    "answer": "external"
+  },
+  {
+    "question": "Which keyword is used to handle exceptions in C++?",
+    "options": ["try-catch", "throw", "catch", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a valid destructor declaration?",
+    "options": ["~ClassName()", "ClassName()", "delete ClassName()", "Destructor()"],
+    "answer": "~ClassName()"
+  },
+  {
+    "question": "Which of the following function is invoked at the time of object creation?",
+    "options": ["Destructor", "Constructor", "Inline function", "Virtual function"],
+    "answer": "Constructor"
+  },
+  {
+    "question": "Which of the following cannot be overloaded?",
+    "options": ["+", "()", "?:", "[]"],
+    "answer": "?:"
+  },
+  {
+    "question": "Which function is executed when the program starts?",
+    "options": ["start()", "main()", "begin()", "execute()"],
+    "answer": "main()"
+  },
+  {
+    "question": "Which of the following is used to define a namespace in C++?",
+    "options": ["package", "namespace", "module", "group"],
+    "answer": "namespace"
+  },
+  {
+    "question": "What is the default return type of a constructor?",
+    "options": ["int", "void", "class type", "float"],
+    "answer": "class type"
+  },
+  {
+    "question": "Which operator is used to resolve the scope in C++?",
+    "options": ["::", "->", ".", ":"],
+    "answer": "::"
+  },
+  {
+    "question": "Which of the following is a feature of inline functions?",
+    "options": ["Code expansion", "Faster execution", "Reduces function call overhead", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following allows defining multiple functions with the same name?",
+    "options": ["Operator overloading", "Function overloading", "Inheritance", "Encapsulation"],
+    "answer": "Function overloading"
+  },
+  {
+    "question": "Which keyword is used to make a class abstract in C++?",
+    "options": ["abstract", "virtual", "pure virtual function", "interface"],
+    "answer": "pure virtual function"
+  },
+  {
+    "question": "Which operator is overloaded when using '<<' with cout?",
+    "options": ["insertion operator", "extraction operator", "assignment operator", "comparison operator"],
+    "answer": "insertion operator"
+  },
+  {
+    "question": "Which keyword is used for multiple inheritance?",
+    "options": ["extends", "inherits", "implements", "None (just use :)"],
+    "answer": "None (just use :)"
+  },
+  {
+    "question": "Which of the following is true about virtual functions?",
+    "options": ["They must be declared using virtual keyword", "They support runtime polymorphism", "They are resolved at runtime", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used for file handling in C++?",
+    "options": ["fstream", "ifstream", "ofstream", "All of the above"],
+    "answer": "All of the above"
+  }
+]

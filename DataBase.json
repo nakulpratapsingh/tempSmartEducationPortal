@@ -1,154 +1,212 @@
-{
-  "questions": [
-    {
-      "question": "Which of the following is a valid C variable name?",
-      "options": ["int", "float", "variable1", "2variable"],
-      "answer": "variable1"
-    },
-    {
-      "question": "Which of the following is the correct format specifier for int in C?",
-      "options": ["%c", "%f", "%d", "%s"],
-      "answer": "%d"
-    },
-    {
-      "question": "Which of the following is NOT a valid storage class in C?",
-      "options": ["auto", "static", "mutable", "extern"],
-      "answer": "mutable"
-    },
-    {
-      "question": "Which operator is used to access value at the address stored in a pointer?",
-      "options": ["&", "*", "->", "%"],
-      "answer": "*"
-    },
-    {
-      "question": "Which of the following is the correct comment in C?",
-      "options": ["# This is a comment", "// This is a comment", "/* This is a comment */", "Both B and C"],
-      "answer": "Both B and C"
-    },
-    {
-      "question": "Which keyword is used to return a value from a function in C?",
-      "options": ["return", "break", "continue", "exit"],
-      "answer": "return"
-    },
-    {
-      "question": "What will be the size of int on most 32-bit compilers?",
-      "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on compiler"],
-      "answer": "4 bytes"
-    },
-    {
-      "question": "Which function is used to print output in C?",
-      "options": ["print()", "write()", "printf()", "cout"],
-      "answer": "printf()"
-    },
-    {
-      "question": "Which loop is guaranteed to execute at least once?",
-      "options": ["for", "while", "do-while", "None of the above"],
-      "answer": "do-while"
-    },
-    {
-      "question": "Which of the following is used to take input from user in C?",
-      "options": ["cin", "scanf()", "input()", "get()"],
-      "answer": "scanf()"
-    },
-    {
-      "question": "Which of these is not a logical operator in C?",
-      "options": ["&&", "||", "!", "&"],
-      "answer": "&"
-    },
-    {
-      "question": "What is the default return type of a function in C if not specified?",
-      "options": ["int", "float", "void", "char"],
-      "answer": "int"
-    },
-    {
-      "question": "Which function is used to find the length of a string in C?",
-      "options": ["strlen()", "length()", "strlength()", "size()"],
-      "answer": "strlen()"
-    },
-    {
-      "question": "Which header file is required for using malloc() function?",
-      "options": ["<string.h>", "<stdlib.h>", "<stdio.h>", "<malloc.h>"],
-      "answer": "<stdlib.h>"
-    },
-    {
-      "question": "What is the index of the first element in an array in C?",
-      "options": ["0", "1", "-1", "Depends on compiler"],
-      "answer": "0"
-    },
-    {
-      "question": "Which symbol is used to denote a preprocessor directive in C?",
-      "options": ["@", "#", "$", "&"],
-      "answer": "#"
-    },
-    {
-      "question": "Which operator is used to get the address of a variable?",
-      "options": ["*", "&", "%", "#"],
-      "answer": "&"
-    },
-    {
-      "question": "Which function is used to compare two strings in C?",
-      "options": ["strcmp()", "compare()", "strncmp()", "Both A and C"],
-      "answer": "Both A and C"
-    },
-    {
-      "question": "What is the correct way to declare a pointer in C?",
-      "options": ["int p;", "int *p;", "int &p;", "pointer p;"],
-      "answer": "int *p;"
-    },
-    {
-      "question": "Which keyword is used to define a constant in C?",
-      "options": ["const", "constant", "#define", "Both A and C"],
-      "answer": "Both A and C"
-    },
-    {
-      "question": "Which of the following is the smallest unit of memory?",
-      "options": ["Byte", "Bit", "Nibble", "Word"],
-      "answer": "Bit"
-    },
-    {
-      "question": "Which of the following is a valid escape sequence in C?",
-      "options": ["\\n", "\\t", "\\r", "All of the above"],
-      "answer": "All of the above"
-    },
-    {
-      "question": "Which keyword is used to exit from a loop in C?",
-      "options": ["return", "exit", "continue", "break"],
-      "answer": "break"
-    },
-    {
-      "question": "Which header file is required for printf() and scanf()?",
-      "options": ["<conio.h>", "<stdlib.h>", "<stdio.h>", "<string.h>"],
-      "answer": "<stdio.h>"
-    },
-    {
-      "question": "Which data type is used to store a single character in C?",
-      "options": ["char", "string", "int", "float"],
-      "answer": "char"
-    },
-    {
-      "question": "Which of the following is not a valid loop in C?",
-      "options": ["for", "while", "repeat-until", "do-while"],
-      "answer": "repeat-until"
-    },
-    {
-      "question": "Which operator is used for modulo division in C?",
-      "options": ["/", "%", "*", "//"],
-      "answer": "%"
-    },
-    {
-      "question": "Which function is used to copy one string into another?",
-      "options": ["strcpy()", "copy()", "strcopy()", "memcpy()"],
-      "answer": "strcpy()"
-    },
-    {
-      "question": "Which function is used to terminate a program in C?",
-      "options": ["end()", "stop()", "exit()", "terminate()"],
-      "answer": "exit()"
-    },
-    {
-      "question": "Which function is used to allocate memory dynamically in C?",
-      "options": ["malloc()", "calloc()", "realloc()", "All of the above"],
-      "answer": "All of the above"
-    }
-  ]
-}
+[
+  {
+    "question": "What is a database?",
+    "options": ["A collection of organized data", "A type of programming language", "An operating system", "A networking protocol"],
+    "answer": "A collection of organized data"
+  },
+  {
+    "question": "Which language is commonly used to manage databases?",
+    "options": ["HTML", "SQL", "Python", "CSS"],
+    "answer": "SQL"
+  },
+  {
+    "question": "What does 'CRUD' stand for in database operations?",
+    "options": ["Create, Read, Update, Delete", "Connect, Run, Upload, Download", "Compute, Record, Update, Delete", "Calculate, Read, Unlock, Delete"],
+    "answer": "Create, Read, Update, Delete"
+  },
+  {
+    "question": "Which of the following is an example of a relational database?",
+    "options": ["MongoDB", "MySQL", "Cassandra", "Redis"],
+    "answer": "MySQL"
+  },
+  {
+    "question": "What is a primary key in a database?",
+    "options": ["A unique identifier for records", "A password for the database", "A type of database", "A backup tool"],
+    "answer": "A unique identifier for records"
+  },
+  {
+    "question": "Which command is used to retrieve data from a database?",
+    "options": ["SELECT", "INSERT", "DELETE", "UPDATE"],
+    "answer": "SELECT"
+  },
+  {
+    "question": "What is normalization in databases?",
+    "options": ["Process to reduce data redundancy", "Backing up data regularly", "Software installation", "Network configuration"],
+    "answer": "Process to reduce data redundancy"
+  },
+  {
+    "question": "Which database model stores data in documents?",
+    "options": ["Relational model", "Document model", "Hierarchical model", "Network model"],
+    "answer": "Document model"
+  },
+  {
+    "question": "What is a foreign key?",
+    "options": ["A field in one table that refers to the primary key in another table", "A key to database security", "Main password for the database", "A network key"],
+    "answer": "A field in one table that refers to the primary key in another table"
+  },
+  {
+    "question": "Which SQL statement is used to modify existing data?",
+    "options": ["UPDATE", "INSERT", "SELECT", "CREATE"],
+    "answer": "UPDATE"
+  },
+  {
+    "question": "What is meant by 'ACID' properties in databases?",
+    "options": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Accuracy, Control, Integrity, Data",
+      "Access, Communication, Integrity, Database",
+      "Automation, Consistency, Interface, Deployment"
+    ],
+    "answer": "Atomicity, Consistency, Isolation, Durability"
+  },
+  {
+    "question": "What is an index in a database?",
+    "options": ["A structure to improve query performance", "A type of data", "A backup file", "A database software"],
+    "answer": "A structure to improve query performance"
+  },
+  {
+    "question": "Which database is an example of NoSQL?",
+    "options": ["Oracle", "MongoDB", "MySQL", "PostgreSQL"],
+    "answer": "MongoDB"
+  },
+  {
+    "question": "What does 'join' do in SQL?",
+    "options": [
+      "Combines rows from two or more tables",
+      "Deletes rows",
+      "Creates new tables",
+      "Inserts data"
+    ],
+    "answer": "Combines rows from two or more tables"
+  },
+  {
+    "question": "What is a stored procedure?",
+    "options": [
+      "A precompiled collection of SQL statements",
+      "A data type",
+      "File storage system",
+      "A backup tool"
+    ],
+    "answer": "A precompiled collection of SQL statements"
+  },
+  {
+    "question": "Which SQL clause is used to filter records?",
+    "options": ["WHERE", "GROUP BY", "ORDER BY", "HAVING"],
+    "answer": "WHERE"
+  },
+  {
+    "question": "What is denormalization?",
+    "options": [
+      "Adding redundant data to improve performance",
+      "Removing duplicate tables",
+      "Encrypting data",
+      "Backing up data"
+    ],
+    "answer": "Adding redundant data to improve performance"
+  },
+  {
+    "question": "Which SQL command deletes all records but keeps the table structure?",
+    "options": ["TRUNCATE", "DELETE", "DROP", "REMOVE"],
+    "answer": "TRUNCATE"
+  },
+  {
+    "question": "What is a view in SQL?",
+    "options": [
+      "A virtual table based on the result-set of an SQL query",
+      "A backup of a table",
+      "A physical table",
+      "A user privilege"
+    ],
+    "answer": "A virtual table based on the result-set of an SQL query"
+  },
+  {
+    "question": "What is the purpose of a transaction in a database?",
+    "options": [
+      "A group of operations executed as a single unit",
+      "Backup the database",
+      "Monitor database usage",
+      "Encrypt data"
+    ],
+    "answer": "A group of operations executed as a single unit"
+  },
+  {
+    "question": "Which of the following ensures data integrity?",
+    "options": ["Constraints", "Backup", "Indexes", "Users"],
+    "answer": "Constraints"
+  },
+  {
+    "question": "What type of database uses tables with rows and columns?",
+    "options": ["Relational database", "NoSQL database", "Graph database", "Document database"],
+    "answer": "Relational database"
+  },
+  {
+    "question": "What is the function of the DELETE statement?",
+    "options": [
+      "Remove existing records",
+      "Add new records",
+      "Modify records",
+      "Retrieve records"
+    ],
+    "answer": "Remove existing records"
+  },
+  {
+    "question": "Which of the following is used to backup a database?",
+    "options": ["Backup utilities", "Indexes", "Views", "Stored procedures"],
+    "answer": "Backup utilities"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Sequential Query Language",
+      "Standard Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "What is data replication?",
+    "options": [
+      "Copying data from one database server to another",
+      "Deleting duplicate data",
+      "Backing up",
+      "Compressing data"
+    ],
+    "answer": "Copying data from one database server to another"
+  },
+  {
+    "question": "Which type of key uniquely identifies rows in a table?",
+    "options": ["Primary key", "Foreign key", "Candidate key", "Composite key"],
+    "answer": "Primary key"
+  },
+  {
+    "question": "What is a NoSQL database best suited for?",
+    "options": [
+      "Handling unstructured data",
+      "Structured tabular data",
+      "Simple key-value pairs",
+      "Handling only graph data"
+    ],
+    "answer": "Handling unstructured data"
+  },
+  {
+    "question": "Which database component manages storage and retrieval?",
+    "options": [
+      "Database engine",
+      "User interface",
+      "Application server",
+      "Backup manager"
+    ],
+    "answer": "Database engine"
+  },
+  {
+    "question": "What is the function of a backup in database management?",
+    "options": [
+      "To restore data after loss",
+      "To delete data",
+      "To optimize queries",
+      "To create new data"
+    ],
+    "answer": "To restore data after loss"
+  }
+]

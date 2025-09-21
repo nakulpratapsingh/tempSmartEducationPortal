@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="subject.css">
+</head>
+<body>
+    <div class="container">
+        <h1 id="heading"> Choose Subject</h1>
+    <ul  id="Sub">
+        <li> <button class="sub-class" onclick="goToQuiz('Mathematics.json')">Mathematics</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Aptitude.json')">Aptitude</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Reasoning.json')">Reasoning</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('English.json')">English</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('OperatingSystem.json')">Operating System</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('NetworkSecurity.json')">Network Security</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('CLanguage.json')">C Language</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Cpp.json')">C++</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('Java.json')">Java</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('DataStructure.json')">Data Structure</button> </li>
+        <li> <button class="sub-class" onclick="goToQuiz('PsuedoCode.json')">PsuedoCode</button> </li> 
+    </ul>
+    </div>
+
+    <script>
+    function goToQuiz(subject) 
+    {
+    window.location.href = "quize.html?subject=" + subject;
+    }
+    </script>
+
+</body>
+</html>
